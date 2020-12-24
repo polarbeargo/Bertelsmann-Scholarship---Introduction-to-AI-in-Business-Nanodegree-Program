@@ -10,5 +10,14 @@ Polarbeargo
 * Take the 60 Days of Udacity pledge :star: !  
 * Participating in #introduction channel introduce myself and catch up with fellow scholars! I have a lot of fun times here :heart: !  
 
-![][image1]
+![][image1]  
+
+Day 2 : 24/12/2020  
+Polarbeargo  
+
+* Finished watching curriculum 3 Creating a Dataset lesson 1 Data Fit and Annotation and writing quiz.
+* Participating in #WellnessWednesday went out for a 5km run help my brain practicing focus and relax:blush:!
+* Wondering about which study group should I join? Greek Study Group and California Go! Study Group seems very appealing to me!
+* My #TreatYourselfTuesday been selected by Palak.Udacity! A happiness shy blushing on my face :blush: thank you Dear Palak.Udacity!
+* Reading #relax channel see how other scholars enjoy their #WellnessWednesday and catch up with them! Merry Christmas to everyone!
 
