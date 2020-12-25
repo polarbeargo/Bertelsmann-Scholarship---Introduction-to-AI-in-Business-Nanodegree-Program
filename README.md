@@ -21,3 +21,10 @@ Polarbeargo
 * My #TreatYourselfTuesday been selected by Palak.Udacity! A happiness shy blushing on my face :blush: thank you Dear Palak.Udacity!
 * Reading #relax channel see how other scholars enjoy their #WellnessWednesday and catch up with them! Merry Christmas to everyone!
 
+Day 3 : 25/12/2020  
+Polarbeargo 
+
+* Watching curriculum 4 Build a Model lesson 1 Training and evaluating a model.  
+* Participating in #ThankfulThursday write a list of 5 things that I'm grateful in my life :smile:!
+* Join multi study group say Hello to fellow scholars.
+* Reading #celerbrate channel see how other enjoying their #ThankfulThursday. Merry Christmas to all 🥰!
