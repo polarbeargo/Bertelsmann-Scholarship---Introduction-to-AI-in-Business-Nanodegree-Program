@@ -28,3 +28,9 @@ Polarbeargo
 * Participating in #ThankfulThursday write a list of 5 things that I'm grateful in my life :smile:!
 * Join multi-study group and say Hello to fellow scholars.
 * Reading #celerbrate channel and see how others enjoying their #ThankfulThursday. Merry Christmas to all 🥰!
+
+Day 4 : 26/12/2020  
+Polarbeargo 
+
+* Finished Watching curriculum 4 Build a Model lesson 1 Training and evaluating a model and writing quiz.
+* Having fun time watching Christmas movie.
