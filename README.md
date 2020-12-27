@@ -34,3 +34,9 @@ Polarbeargo
 
 * Finished Watching curriculum 4 Build a Model lesson 1 Training and evaluating a model and writing quiz.
 * Having fun time watching Christmas movie.
+
+Day 5 : 27/12/2020  
+Polarbeargo 
+
+* Watching curriculum 5. Measuring Impact and Updating Models lesson1 Measuring Bussines impact & Mitigating Bias and writing quiz.
+* Watching [Charles Isbell and Michael Littman: Machine Learning and Education | Lex Fridman Podcast #148](https://youtu.be/yzMVEbs8Zz0)
