@@ -40,3 +40,10 @@ Polarbeargo
 
 * Watching curriculum 5. Measuring Impact and Updating Models lesson1 Measuring Business impact & Mitigating Bias and writing quiz.
 * Watching [Charles Isbell and Michael Littman: Machine Learning and Education | Lex Fridman Podcast #148](https://youtu.be/yzMVEbs8Zz0)
+
+Day 6 : 28/12/2020  
+Polarbeargo  
+
+* Watching curriculum 5. Measuring Impact and Updating Models lesson 2 Case Study: Video Annotation and writing quiz.  
+* Watching [Matthew Johnson: Psychedelics | Lex Fridman Podcast #145](https://www.youtube.com/watch?v=ICj8p5jPd3Y)  
+* Watching [Diana Walsh Pasulka: Aliens, Technology, Religion & the Nature of Belief | Lex Fridman Podcast #149](https://www.youtube.com/watch?v=iqBh7G4uDR8)
