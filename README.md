@@ -47,3 +47,11 @@ Polarbeargo
 * Watching curriculum 5. Measuring Impact and Updating Models lesson 2 Case Study: Video Annotation and writing quiz.  
 * Watching [Matthew Johnson: Psychedelics | Lex Fridman Podcast #145](https://www.youtube.com/watch?v=ICj8p5jPd3Y)  
 * Watching [Diana Walsh Pasulka: Aliens, Technology, Religion & the Nature of Belief | Lex Fridman Podcast #149](https://www.youtube.com/watch?v=iqBh7G4uDR8)
+
+Day 7 : 29/12/2020  
+Polarbeargo  
+
+* Reading curriculum 5. Measuring Impact and Updating Models lesson 3 Optional Project Capstone Proposal: Create an AI Product Business Proposal. Planning revisits lesson materials and think of my imaginary Proposal :blush:.
+* Participating in California go! study group meeting time Polly feeling a lot of fun :heart:!
+* Finished Reviewing Computer Vision Nanodegree Program to curriculum 1. Introduction to Computer Vision lesson 4 Image Representation & Classification.  
+* Reviewing AI for trading Nanodegree Program curriculum 1. Quantitative Trading lesson 20 Portfolio Optimization and reading Project 3: Smart Beta Portfolio and Portfolio Optimization.  
