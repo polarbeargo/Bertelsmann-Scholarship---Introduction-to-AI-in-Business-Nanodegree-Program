@@ -2,6 +2,7 @@
 60daysofudacity  
 
 [image1]: ./images/chocolates.jpg   
+[image2]: ./images/photo.png
 
 Day 1 : 23/12/2020  
 Polarbeargo  
@@ -55,3 +56,11 @@ Polarbeargo
 * Participating in California go! study group meeting time Polly feeling a lot of fun :heart:!
 * Finished Reviewing Computer Vision Nanodegree Program to curriculum 1. Introduction to Computer Vision lesson 4 Image Representation & Classification.  
 * Reviewing AI for trading Nanodegree Program curriculum 1. Quantitative Trading lesson 20 Portfolio Optimization and reading Project 3: Smart Beta Portfolio and Portfolio Optimization.  
+
+Day 8 : 30/12/2020  
+Polarbeargo  
+
+* Participating in California go! study group meeting! Meet Viktoria Liu who is a warm, beautiful and light heart person :blush:. We discuss the Group project idea, our progress in the Introduction to AI in Business Nanodegree Program and our hobby together :star:.  
+![][image2]     
+* Reviewing Computer Vision Nanodegree Program to curriculum 1. Introduction to Computer Vision lesson 5 Convolutional Filters and Edge Detection.  
+* Reviewing AI for trading Nanodegree Program curriculum 1. Quantitative Trading lesson 24 Risk Factor Models section 7 Factor Model of Portfolio Return.  
