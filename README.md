@@ -60,7 +60,8 @@ Polarbeargo
 Day 8 : 30/12/2020  
 Polarbeargo  
 
-* Participating in California go! study group meeting! Meet Viktoria Liu who is a warm, beautiful and light heart person :blush:. We discuss the Group project idea, our progress in the Introduction to AI in Business Nanodegree Program and our hobby together :star:.  
+* Participating in California go! study group meeting! Meet Viktoria Liu who is a warm, beautiful and light-hearted person :blush:. We discuss the Group project idea, our progress in the Introduction to AI in Business Nanodegree Program and our hobby together :star:.  
 ![][image2]     
 * Reviewing Computer Vision Nanodegree Program to curriculum 1. Introduction to Computer Vision lesson 5 Convolutional Filters and Edge Detection.  
-* Reviewing AI for trading Nanodegree Program curriculum 1. Quantitative Trading lesson 24 Risk Factor Models section 7 Factor Model of Portfolio Return.  
+* Reviewing AI for trading Nanodegree Program curriculum 1. Quantitative Trading lesson 24 Risk Factor Models section 7 Factor Model of Portfolio Return. 
+* After completed the course start reviewing curriculum 3 Creating a Dataset
