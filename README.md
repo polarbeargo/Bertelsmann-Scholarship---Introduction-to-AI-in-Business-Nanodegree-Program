@@ -70,6 +70,6 @@ Day 9: 31/12/2020
 Polarbeargo
 
 * Having Bertelsmann Scholarship with me countdown for this year which is very sweet, thank you Udacity scholarship team ❤️. I'm getting to know many scholars here.
-* Participating in Optional projects with a group of scholars, student leader Alex Gessner is awsome ⭐!
+* Participating in Optional projects with a group of scholars, student leader Alex Gessner is awesome ⭐!
 * Reviewing Computer Vision Nanodegree Program to curriculum 1. Introduction to Computer Vision lesson 5 Convolutional Filters and Edge Detection to section 25 Face Recognition and the Dangers of Bias. Spent more time in recommendation readings.
 * Finished reviewing AI for trading Nanodegree Program curriculum 1. Quantitative Trading lesson 24 Risk Factor Models section 18 Interlude is very touching, sweet, and thoughtful ❤️😊.
