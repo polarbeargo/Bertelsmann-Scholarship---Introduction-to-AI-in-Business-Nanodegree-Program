@@ -73,3 +73,13 @@ Polarbeargo
 * Participating in Optional projects with a group of scholars, student leader Alex Gessner is awesome ⭐!
 * Reviewing Computer Vision Nanodegree Program to curriculum 1. Introduction to Computer Vision lesson 5 Convolutional Filters and Edge Detection to section 25 Face Recognition and the Dangers of Bias. Spent more time in recommendation readings.
 * Finished reviewing AI for trading Nanodegree Program curriculum 1. Quantitative Trading lesson 24 Risk Factor Models section 18 Interlude is very touching, sweet, and thoughtful ❤️😊.
+
+Day 10: 1/1/2021  
+Polarbeargo
+
+* Reviewing Computer Vision Nanodegree Program to curriculum 1. Introduction to Computer Vision lesson 6 Types of Features & Image Segmentation section 4 Dilation and Erosion. Spent time organizing Dear references.  
+* Reviewing AI for trading Nanodegree Program curriculum 1. Quantitative Trading lesson 25 Time Series and Cross-sectional Risk Models section 9 Fama French Risk Model.  
+* Watching [Michael Malice: The White Pill, Freedom, Hope, and Happiness Amidst Chaos | Lex Fridman Podcast #150](https://www.youtube.com/watch?v=uykM3NhJbso) celebrate 2021 :blush:!
+* Continue practicing Leetcode & HackerRank.
+* Spending time reading excellent Kaggle notebook [Intro to Time Series Forecasting](https://www.kaggle.com/iamleonie/intro-to-time-series-forecasting/comments):star:!
+* Went out for a run.
