@@ -83,3 +83,12 @@ Polarbeargo
 * Continue practicing Leetcode & HackerRank.
 * Spending time reading excellent Kaggle notebook [Intro to Time Series Forecasting](https://www.kaggle.com/iamleonie/intro-to-time-series-forecasting/comments):star:!
 * Went out for a run.
+
+Day 11: 2/1/2021  
+Polarbeargo  
+
+* Reading [Using deep learning and Google Street View to estimate the demographic makeup of neighborhoods across the United States](https://www.pnas.org/content/pnas/114/50/13108.full.pdf) from Introduction to AI in Business Nanodegree Program.
+* Practicing Leetcode & HackerRank.
+* Continue reading excellent Kaggle notebook [Intro to Time Series Forecasting](https://www.kaggle.com/iamleonie/intro-to-time-series-forecasting/comments):star:!
+* Reading excellent Kaggle notebook [RANZCR / ResNet200D / 3-stage training / sub](https://www.kaggle.com/yasufuminakama/ranzcr-resnet200d-3-stage-training-sub)  
+* Enjoy holiday :star:!
