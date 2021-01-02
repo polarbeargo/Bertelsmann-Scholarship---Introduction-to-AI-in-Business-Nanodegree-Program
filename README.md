@@ -91,4 +91,4 @@ Polarbeargo
 * Practicing Leetcode & HackerRank.
 * Continue reading excellent Kaggle notebook [Intro to Time Series Forecasting](https://www.kaggle.com/iamleonie/intro-to-time-series-forecasting/comments):star:!
 * Reading excellent Kaggle notebook [RANZCR / ResNet200D / 3-stage training / sub](https://www.kaggle.com/yasufuminakama/ranzcr-resnet200d-3-stage-training-sub)  
-* Enjoy holiday :star:!
+* Enjoying holiday :star:!
