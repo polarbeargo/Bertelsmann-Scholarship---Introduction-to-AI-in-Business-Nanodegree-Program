@@ -92,3 +92,11 @@ Polarbeargo
 * Continue reading excellent Kaggle notebook [Intro to Time Series Forecasting](https://www.kaggle.com/iamleonie/intro-to-time-series-forecasting/comments):star:!
 * Reading excellent Kaggle notebook [RANZCR / ResNet200D / 3-stage training / sub](https://www.kaggle.com/yasufuminakama/ranzcr-resnet200d-3-stage-training-sub)  
 * Enjoying holiday :star:!
+
+Day 12: 3/1/2021  
+Polarbeargo  
+
+* Having a fun time participating in optional project study group discussion :blush:!
+* Finished reviewing Computer Vision Nanodegree Program to curriculum 1. Introduction to Computer Vision lesson 6 Types of Features & Image Segmentation start reviewing lesson 7 Feature Vectors to section 7 BRIEF.
+* Finished reviewing AI for trading Nanodegree Program curriculum 1. Quantitative Trading lesson 25 Time Series and Cross-sectional Risk Models and lesson 26 Risk Vector Models With PCA start reviewing lesson 27 Alpha Factor to section 3 Alpha Factors versus Risk Factor Modeling.
+* Practicing LeetCode Find the peak element & HackerRank Nested Lists.
