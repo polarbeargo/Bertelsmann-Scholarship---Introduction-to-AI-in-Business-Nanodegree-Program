@@ -100,3 +100,12 @@ Polarbeargo
 * Finished reviewing Computer Vision Nanodegree Program to curriculum 1. Introduction to Computer Vision lesson 6 Types of Features & Image Segmentation start reviewing lesson 7 Feature Vectors to section 7 BRIEF.
 * Finished reviewing AI for trading Nanodegree Program curriculum 1. Quantitative Trading lesson 25 Time Series and Cross-sectional Risk Models and lesson 26 Risk Vector Models With PCA start reviewing lesson 27 Alpha Factor to section 3 Alpha Factors versus Risk Factor Modeling.
 * Practicing LeetCode Find the peak element & HackerRank Nested Lists.
+
+Day 13: 4/1/2021  
+Polarbeargo 
+
+* Reviewing curriculum 2 Introduction to AI in Business examine each quizs.
+* Participating in optional projects study group discussion :blush: and interact with scholars is more light-hearted!
+* Enjoying discussion with Vera Buss talk about Nanodegree we love and enrolled :heart:!
+* Finished reviewing AI for trading Nanodegree Program curriculum 1. Quantitative Trading lesson 27 Alpha Factor section 10 Ranking Part.  
+* Practicing LeetCode Palindrome Permutation.
