@@ -107,5 +107,13 @@ Polarbeargo
 * Reviewing curriculum 2 Introduction to AI in Business examine each quizs.
 * Participating in optional projects study group discussion :blush: and interact with scholars is more light-hearted!
 * Enjoying discussion with Vera Buss talk about Nanodegrees we love and enrolled :heart:!
-* Finished reviewing AI for trading Nanodegree Program curriculum 1. Quantitative Trading lesson 27 Alpha Factor section 10 Ranking Part.  
+* Finished reviewing AI for trading Nanodegree Program curriculum 1. Quantitative Trading lesson 27 Alpha Factor to section 10 Ranking Part.  
 * Practicing LeetCode Palindrome Permutation.
+
+Day 14: 5/1/2021  
+Polarbeargo 
+
+* Finished reviewing curriculum 2 Introduction to AI in Business and examine each quizzes.
+* Conversation with Optional projects study group fellow scholars brings more fun :blush:.  
+* Practicing LeetCode Remove Duplicates from Sorted List II & HackerRank Lists.
+* Reviewing AI for trading Nanodegree Program curriculum 1. Quantitative Trading lesson 27 Alpha Factor to section 13 Zscore.
