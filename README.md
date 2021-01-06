@@ -3,6 +3,7 @@
 
 [image1]: ./images/chocolates.jpg   
 [image2]: ./images/photo.png
+[image3]: ./images/loveLUAProgress.png  
 
 Day 1: 23/12/2020  
 Polarbeargo  
@@ -117,3 +118,15 @@ Polarbeargo
 * Conversation with Optional projects study group fellow scholars brings more fun :blush:.  
 * Practicing LeetCode Remove Duplicates from Sorted List II & HackerRank Lists.
 * Reviewing AI for trading Nanodegree Program curriculum 1. Quantitative Trading lesson 27 Alpha Factor to section 13 Zscore.
+
+Day 15: 6/1/2021  
+Polarbeargo 
+
+* Reviewing curriculum 3 Creating a Dataset lesson 1 Data Fit and Annotation and examine each quizzes.
+* Start reading and Implement Optional project: Create Medical Image Annotation Job.
+* Having a fun time have conversation with Optional projects study group fellow scholars :smile:!
+* Reviewing AI for trading Nanodegree Program curriculum 1. Quantitative Trading lesson 27 Alpha Factor to section 35 The Fundamental Law of Active Management: Part 2.
+* Due to the last access time in AI for trading Nanodegree Program(Jan 11th) paused implementing [CS50’s
+Introduction to Game Development assignments 2, 3 and 4](https://cs50.harvard.edu/games/2018/) for a while, I'm happy that I have my assignment 0,1 scores on my grade book :blush:! Follow the description implementing each assignment's specification helps me build a more solid foundation and have many fun time in LUA! They are excellent assignments :heart:.   
+![][image3]  
+* Reading [Fenomenologia Programmatore](https://www.amazon.com/Fenomenologia-Programmatore-Jargon-Files-Italian-ebook/dp/B00ECFF96O) English version because I have proofread them and writing feedback to the Author. This book is very good writing and attract me to read and self reflection of the chapters. Somehow while reading this book calms me down :relieved:.
