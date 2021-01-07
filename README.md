@@ -135,7 +135,7 @@ Introduction to Game Development assignments 2, 3 and 4](https://cs50.harvard.ed
 Day 16: 7/1/2021  
 Polarbeargo  
 
-* Participated in California go study group 2nd group meeting with Viktoriia Liu, Daniel Montilla, Etendra Verma and Ernesto Guevara introduce how to add collaborators in Github repo on ZOOM, listened everyone introduce themself and their progress. Having fun time and discuss Group projects together:heart:! Viktoriia is a great leader and listener who capable leading the conversation with every members :smiles: Implement mount on Google Drive code cell in Google Colab as a start and add collaborators table on readme. More and more scholars this week! 
+* Participated in California go study group 2nd group meeting with Viktoriia Liu, Daniel Montilla, Etendra Verma and Ernesto Guevara introduce how to add collaborators in Github repo on ZOOM, listened everyone introduce themself and their progress. Having fun time and discuss Group projects together:heart:! Viktoriia is a great leader and listener who capable leading the conversation with every members :blush: Implement mount on Google Drive code cell in Google Colab as a start and add collaborators table on readme. More and more scholars this week! 
 ![][image4]  
 * Reading AI for PRODUCT MANAGERS ND P1 CHEAT SHEET which provide by Viktoriia.  
 * Reading [Fenomenologia Programmatore](https://www.amazon.com/Fenomenologia-Programmatore-Jargon-Files-Italian-ebook/dp/B00ECFF96O) English version because I have proofread them. Writing thoughts to the Author makes me happy :smile:!  
