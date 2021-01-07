@@ -4,6 +4,7 @@
 [image1]: ./images/chocolates.jpg   
 [image2]: ./images/photo.png
 [image3]: ./images/loveLUAProgress.png  
+[image4]: ./images/2.png
 
 Day 1: 23/12/2020  
 Polarbeargo  
@@ -130,3 +131,13 @@ Polarbeargo
 Introduction to Game Development assignments 2, 3 and 4](https://cs50.harvard.edu/games/2018/) for a while, I'm happy that I have my assignment 0,1 scores on my grade book :blush:! Follow the description implementing each assignment's specification helps me build a more solid foundation and have many fun time in LUA! They are excellent assignments :heart:.   
 ![][image3]  
 * Reading [Fenomenologia Programmatore](https://www.amazon.com/Fenomenologia-Programmatore-Jargon-Files-Italian-ebook/dp/B00ECFF96O) English version because I have proofread them and writing feedback to the Author. This book is very good writing and attract me to read and self reflection of the chapters. Somehow while reading this book calms me down :relieved:.
+
+Day 16: 7/1/2021  
+Polarbeargo  
+
+* Participated in California go study group 2nd group meeting with Viktoriia Liu, Daniel Montilla, Etendra Verma and Ernesto Guevara introduce how to add collaborators in Github repo on ZOOM, listened everyone introduce themself and their progress. Having fun time and discuss Group projects together:heart:! Viktoriia is a great leader and listener who capable leading the conversation with every members :smiles: Implement mount on Google Drive code cell in Google Colab as a start and add collaborators table on readme. More and more scholars this week! 
+![][image4]  
+* Reading AI for PRODUCT MANAGERS ND P1 CHEAT SHEET which provide by Viktoriia.  
+* Reading [Fenomenologia Programmatore](https://www.amazon.com/Fenomenologia-Programmatore-Jargon-Files-Italian-ebook/dp/B00ECFF96O) English version because I have proofread them. Writing thoughts to the Author makes me happy :smile:!  
+* Reviewing AI for trading Nanodegree Program curriculum 1. Quantitative Trading lesson 27 Alpha Factor to section 42 Quantile Analysis Part 2.  
+* Today a little bit overwhelmed go out for the dinner :relieved:.
