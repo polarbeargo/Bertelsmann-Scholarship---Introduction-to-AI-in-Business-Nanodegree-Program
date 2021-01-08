@@ -141,3 +141,11 @@ Polarbeargo
 * Reading [Fenomenologia Programmatore](https://www.amazon.com/Fenomenologia-Programmatore-Jargon-Files-Italian-ebook/dp/B00ECFF96O) English version because I have proofread them. Writing thoughts to the Author makes me happy :smile:!  
 * Reviewing AI for trading Nanodegree Program curriculum 1. Quantitative Trading lesson 27 Alpha Factor to section 42 Quantile Analysis Part 2.  
 * Today a little bit overwhelmed go out for the dinner :relieved:.
+
+Day 17: 8/1/2021  
+Polarbeargo 
+
+* Finished reviewing AI for trading Nanodegree Program curriculum 1. Quantitative Trading lesson 27 Alpha Factor. Reviewing lesson 28 Alpha Factor Research Methods to section 24 iVol: Joint Factor: Volatility Enhanced Price Earnings Ratio.  
+* Reading [Jane Street Market Prediction
+Test your model against future real market data](https://www.kaggle.com/c/jane-street-market-prediction) want to use this opportunity combine and enhance my learning experience from AI for trading Nanodegree Program.  
+* Can't participate Alex Gessner (she/her)'s optional projects study group first group meeting(12AM Taiwan time can't manage to stay awake :sleepy:) so I Update [how to Add Collaborators to repo](https://www.youtube.com/watch?v=p49LRx3hYI8) and [Collaborator Contributions with GitHub DeskTop](https://www.youtube.com/watch?v=kWZzug6YRw8) in study group channel.  
