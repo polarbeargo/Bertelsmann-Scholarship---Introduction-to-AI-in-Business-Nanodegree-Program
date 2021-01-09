@@ -149,3 +149,9 @@ Polarbeargo
 * Reading [Jane Street Market Prediction
 Test your model against future real market data](https://www.kaggle.com/c/jane-street-market-prediction) want to use this opportunity combine and enhance my learning experience from AI for trading Nanodegree Program.  
 * Can't participate Alex Gessner (she/her)'s optional projects study group first group meeting(12AM Taiwan time can't manage to stay awake :sleepy:) so I Update [how to Add Collaborators to repo](https://www.youtube.com/watch?v=p49LRx3hYI8) and [Collaborator Contributions with GitHub DeskTop](https://www.youtube.com/watch?v=kWZzug6YRw8) in study group channel.  
+
+Day 18: 9/1/2021  
+Polarbeargo  
+
+* Finished reviewing AI for trading Nanodegree Program curriculum 1. Quantitative Trading, Full time reviewing curriculum 2. AI Algorithms in Trading to lesson 19 Feature Engineering section 6 Market Dispersion.
+* Organizing AI for trading Nanodegree Program references.
