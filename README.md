@@ -155,3 +155,9 @@ Polarbeargo
 
 * Finished reviewing AI for trading Nanodegree Program curriculum 1. Quantitative Trading, Full time reviewing curriculum 2. AI Algorithms in Trading to lesson 19 Feature Engineering section 6 Market Dispersion.
 * Organizing AI for trading Nanodegree Program references.
+
+Day 19: 10/1/2021  
+Polarbeargo 
+
+* Finished reviewing AI for trading Nanodegree Program curriculum 2. AI Algorithms in Trading. Full time reviewing extra curriculum.
+* Organizing AI for trading Nanodegree Program references and videos.
