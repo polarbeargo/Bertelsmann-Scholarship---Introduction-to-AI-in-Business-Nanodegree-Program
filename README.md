@@ -161,3 +161,12 @@ Polarbeargo
 
 * Finished reviewing AI for trading Nanodegree Program curriculum 2. AI Algorithms in Trading. Full time reviewing extra curriculum.
 * Organizing AI for trading Nanodegree Program references and videos.
+
+Day 20: 11/1/2021  
+Polarbeargo 
+
+* I finally finished reviewing AI for trading Nanodegree Program including extra curriculum which I feel content :blush:!  
+* Finished organizing AI for trading Nanodegree Program references and videos.  
+* Reading [Jane Street - Features Hierarchical Clustering](https://www.kaggle.com/apolitano20/jane-street-features-hierarchical-clustering) this excellent notebook and learning.  
+* [English Proficiency for Graduate Studies Certificate](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) starts today and I enrolled in Course 1 immediately watching lectures and start reading Graded discussion.  
+* Today I saw other scholar talked about have to participate Slack at least 2 channel per day, I need to be more aware of that. I mainly participating 60daysofUdacity channel and reply lovely questions other scholar have interest and asked me.  
