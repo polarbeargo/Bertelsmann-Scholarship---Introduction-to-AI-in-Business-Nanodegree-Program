@@ -176,3 +176,12 @@ Polarbeargo
 
 * Writing [English Proficiency for Graduate Studies Certificate](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) graded discussion carefully.
 * Practicing Hackerrank String Validators and LeetCode Add Two Numbers.
+
+Day 21: 13/1/2021  
+Polarbeargo   
+
+* Think of how to write AI Track - Student Stories Challenge Form.
+* Finished writing  Midpoint Survey.
+* Today lovely Kaggle share [Google Research Football Simulation with Manchester City](https://www.kaggle.com/c/google-football/discussion/204645) with me where I can learn more about the results which could impact many areas related to reinforcement learning and training AI agents to learn complex skills. It's perfect have these discuss and notebook to continue explore reinforcement learning :heart:!
+* Writing [English Proficiency for Graduate Studies Certificate](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) graded discussion very carefully and replying classmates their posts.
+* Looking forward to tomorrow's California GO study group meeting :blush:.
