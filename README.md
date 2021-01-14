@@ -194,6 +194,6 @@ Polarbeargo
 * Think of how to write AI Track - Student Stories Challenge Form.  
 * Having fun time participate in California Go study group meeting with  @Viktoriia Liu @Daniel Montilla @Anne L and @Etendra Verma discuss group project topics & contents.  
 ![][image5]  
-* Reading [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing). Received my first grade today :blush: feeling lovely :heart:!
-![][image6]
-* Practicing Hackerrank text wrap and LeetCode Minimum Operations to Reduce X to Zero.  
+* Reading [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing). Received my first grade today :blush: feeling lovely :heart:!  
+![][image6]  
+* Practicing Hackerrank text wrap and LeetCode Minimum Operations to Reduce X to Zero.   
