@@ -5,6 +5,8 @@
 [image2]: ./images/photo.png
 [image3]: ./images/loveLUAProgress.png  
 [image4]: ./images/2.png
+[image5]: ./images/meeting3.png  
+[image6]: ./images/FirstGrade.png
 
 Day 1: 23/12/2020  
 Polarbeargo  
@@ -141,3 +143,57 @@ Polarbeargo
 * Reading [Fenomenologia Programmatore](https://www.amazon.com/Fenomenologia-Programmatore-Jargon-Files-Italian-ebook/dp/B00ECFF96O) English version because I have proofread them. Writing thoughts to the Author makes me happy :smile:!  
 * Reviewing AI for trading Nanodegree Program curriculum 1. Quantitative Trading lesson 27 Alpha Factor to section 42 Quantile Analysis Part 2.  
 * Today a little bit overwhelmed go out for the dinner :relieved:.
+
+Day 17: 8/1/2021  
+Polarbeargo 
+
+* Finished reviewing AI for trading Nanodegree Program curriculum 1. Quantitative Trading lesson 27 Alpha Factor. Reviewing lesson 28 Alpha Factor Research Methods to section 24 iVol: Joint Factor: Volatility Enhanced Price Earnings Ratio.  
+* Reading [Jane Street Market Prediction
+Test your model against future real market data](https://www.kaggle.com/c/jane-street-market-prediction) want to use this opportunity combine and enhance my learning experience from AI for trading Nanodegree Program.  
+* Can't participate Alex Gessner (she/her)'s optional projects study group first group meeting(12AM Taiwan time can't manage to stay awake :sleepy:) so I Update [how to Add Collaborators to repo](https://www.youtube.com/watch?v=p49LRx3hYI8) and [Collaborator Contributions with GitHub DeskTop](https://www.youtube.com/watch?v=kWZzug6YRw8) in study group channel.  
+
+Day 18: 9/1/2021  
+Polarbeargo  
+
+* Finished reviewing AI for trading Nanodegree Program curriculum 1. Quantitative Trading, Full time reviewing curriculum 2. AI Algorithms in Trading to lesson 19 Feature Engineering section 6 Market Dispersion.
+* Organizing AI for trading Nanodegree Program references.
+
+Day 19: 10/1/2021  
+Polarbeargo 
+
+* Finished reviewing AI for trading Nanodegree Program curriculum 2. AI Algorithms in Trading. Full time reviewing extra curriculum.
+* Organizing AI for trading Nanodegree Program references and videos.
+
+Day 20: 11/1/2021  
+Polarbeargo 
+
+* I finally finished reviewing AI for trading Nanodegree Program including extra curriculum which I feel content :blush:!  
+* Finished organizing AI for trading Nanodegree Program references and videos.  
+* Reading [Jane Street - Features Hierarchical Clustering](https://www.kaggle.com/apolitano20/jane-street-features-hierarchical-clustering) this excellent notebook and learning.  
+* [English Proficiency for Graduate Studies Certificate](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) starts today and I enrolled in Course 1 immediately watching lectures and start reading Graded discussion.  
+* Today I saw other scholar talked about have to participate Slack at least 2 channel per day, I need to be more aware of that. I mainly participating 60daysofUdacity channel and reply lovely questions other scholar have interest and asked me.  
+
+Day 20: 12/1/2021  
+Polarbeargo  
+
+* Writing [English Proficiency for Graduate Studies Certificate](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) graded discussion carefully.
+* Practicing Hackerrank String Validators and LeetCode Add Two Numbers.
+
+Day 21: 13/1/2021  
+Polarbeargo   
+
+* Think of how to write AI Track - Student Stories Challenge Form.
+* Finished writing  Midpoint Survey.
+* Today lovely Kaggle share [Google Research Football Simulation with Manchester City](https://www.kaggle.com/c/google-football/discussion/204645) with me where I can learn more about the results which could impact many areas related to reinforcement learning and training AI agents to learn complex skills. It's perfect have these discuss and notebook to continue explore reinforcement learning :heart:!
+* Writing [English Proficiency for Graduate Studies Certificate](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) graded discussion very carefully and replying classmates their posts.
+* Looking forward to tomorrow's California GO study group meeting :blush:.
+
+Day 22: 14/1/2021  
+Polarbeargo  
+
+* Think of how to write AI Track - Student Stories Challenge Form.  
+* Having fun time participate in California Go study group meeting with  @Viktoriia Liu @Daniel Montilla @Anne L and @Etendra Verma discuss group project topics & contents.  
+![][image5]  
+* Reading [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing). Received my first grade today :blush: feeling lovely :heart:!
+![][image6]
+* Practicing Hackerrank text wrap and LeetCode Minimum Operations to Reduce X to Zero.  
