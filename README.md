@@ -5,6 +5,8 @@
 [image2]: ./images/photo.png
 [image3]: ./images/loveLUAProgress.png  
 [image4]: ./images/2.png
+[image5]: ./images/meeting3.png  
+[image6]: ./images/FirstGrade.png
 
 Day 1: 23/12/2020  
 Polarbeargo  
@@ -185,3 +187,13 @@ Polarbeargo
 * Today lovely Kaggle share [Google Research Football Simulation with Manchester City](https://www.kaggle.com/c/google-football/discussion/204645) with me where I can learn more about the results which could impact many areas related to reinforcement learning and training AI agents to learn complex skills. It's perfect have these discuss and notebook to continue explore reinforcement learning :heart:!
 * Writing [English Proficiency for Graduate Studies Certificate](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) graded discussion very carefully and replying classmates their posts.
 * Looking forward to tomorrow's California GO study group meeting :blush:.
+
+Day 22: 14/1/2021  
+Polarbeargo  
+
+* Think of how to write AI Track - Student Stories Challenge Form.  
+* Having fun time participate in California Go study group meeting with  @Viktoriia Liu @Daniel Montilla @Anne L and @Etendra Verma discuss group project topics & contents.  
+![][image5]  
+* Reading [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing). Received my first grade today :blush: feeling lovely :heart:!
+![][image6]
+* Practicing Hackerrank text wrap and LeetCode Minimum Operations to Reduce X to Zero.  
