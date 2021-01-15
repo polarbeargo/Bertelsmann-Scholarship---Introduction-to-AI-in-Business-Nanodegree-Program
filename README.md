@@ -7,6 +7,7 @@
 [image4]: ./images/2.png
 [image5]: ./images/meeting3.png  
 [image6]: ./images/FirstGrade.png
+[image7]: ./images/2ndGrade.png    
 
 Day 1: 23/12/2020  
 Polarbeargo  
@@ -197,3 +198,10 @@ Polarbeargo
 * Reading [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing). Received my first grade today :blush: feeling lovely :heart:!  
 ![][image6]  
 * Practicing Hackerrank text wrap and LeetCode Minimum Operations to Reduce X to Zero.   
+
+Day 23: 15/1/2021  
+Polarbeargo
+
+* Think of how to write AI Track - Student Stories Challenge Form.  
+* Reading and writing [English Proficiency for Graduate Studies Certificate](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) graded discussion very carefully and replying classmates their posts. Yesterday I'm lucky join 1 vs 1 zoom meeting session with Madam April who help me to learn how to narrow down research topics and encourage me to talk and willing to Praise her students. I'm very grateful to have this chance enrolling in this course :blush:. I hope everything can goes well. I need to be more focus on writing another two projects before Sunday AZ time.  
+![][image7]  
