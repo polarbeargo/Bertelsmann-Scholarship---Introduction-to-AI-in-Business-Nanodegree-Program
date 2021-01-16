@@ -210,7 +210,7 @@ Polarbeargo
 Day 24: 16/1/2021  
 Polarbeargo  
 
-* Reading and writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill Assignment Evaluating Sources Writing](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) very carefully. Today received my third grade:heart:  
+* Reading and writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill Assignment Evaluating Sources Writing](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) very carefully. Today received my third grade:heart: I feel very content!  
 ![][image8]  
 * While writing Assignment Evaluating Sources Writing, I open up [the Association for the Advancement of Artificial Intelligence (AAAI) (formerly the American Association for Artificial Intelligence)](https://www.aaai.org/search-results.php?cx=016314354884912110518%3Agwmynp16xuu&cof=FORID%3A11&ie=UTF-8&q=healthcare&sa=Search) URL which I learn it from Udacity Nanodegree Program :blush:! It's a great source for those who want to read articles and conferences relate to Artificial Intelligence so I would love to share in here :smile: and glad that I have this opportunity to use it. Writing is a good process of releasing your thoughts and learn from credible sources.  
 * I eat something not supposed to eat and need rest earlier for the day.
