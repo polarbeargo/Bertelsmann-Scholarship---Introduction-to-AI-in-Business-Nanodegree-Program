@@ -8,7 +8,8 @@
 [image5]: ./images/meeting3.png  
 [image6]: ./images/FirstGrade.png
 [image7]: ./images/2ndGrade.png  
-[image8]: ./images/3rdGrade.png  
+[image8]: ./images/3rdGrade.png 
+[image9]: ./images/comfort.png
 
 Day 1: 23/12/2020  
 Polarbeargo  
@@ -210,7 +211,15 @@ Polarbeargo
 Day 24: 16/1/2021  
 Polarbeargo  
 
-* Reading and writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill Assignment Evaluating Sources Writing](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) very carefully. Today received my third grade:heart:  
+* Reading and writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill Assignment Evaluating Sources Writing](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) very carefully. Today received my third grade:heart: I feel very content!  
 ![][image8]  
 * While writing Assignment Evaluating Sources Writing, I open up [the Association for the Advancement of Artificial Intelligence (AAAI) (formerly the American Association for Artificial Intelligence)](https://www.aaai.org/search-results.php?cx=016314354884912110518%3Agwmynp16xuu&cof=FORID%3A11&ie=UTF-8&q=healthcare&sa=Search) URL which I learn it from Udacity Nanodegree Program :blush:! It's a great source for those who want to read articles and conferences relate to Artificial Intelligence so I would love to share in here :smile: and glad that I have this opportunity to use it. Writing is a good process of releasing your thoughts and learn from credible sources.  
 * I eat something not supposed to eat and need rest earlier for the day.
+
+Day 25: 17/1/2021  
+Polarbeargo 
+
+* Reading and writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill Independent Project - Develop a Research Question](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) very carefully. Found out the option projects and knowledge I studied from Introduction to AI in Business Nanodegree Program can also be used along with Learning Research Skill course material.  
+* Participating [CS50’s New Year’s Seminars](https://cs50.harvard.edu/x/2021/seminars/#a-taste-of-python) where is a good place to learn Python so I would love to share in here.  
+* Received warm and comfort letter from Udacity which makes me feel warm and enlighten so I collect it here.  
+![][image9]  
