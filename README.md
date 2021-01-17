@@ -219,7 +219,7 @@ Polarbeargo
 Day 25: 17/1/2021  
 Polarbeargo 
 
-* Reading and writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill Independent Project - Develop a Research Question](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) very carefully. Found out the option projects and knowledge I studied from Introduction to AI in Business Nanodegree Program can also be used along with Learning Research Skill course material.  
+* Reading and writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill Independent Project - Develop a Research Question](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) very carefully. Found out the option projects and knowledge I studied from Introduction to AI in Business Nanodegree Program can also be used along with the Learning Research Skill course material.  
 * Participating [CS50’s New Year’s Seminars](https://cs50.harvard.edu/x/2021/seminars/#a-taste-of-python) where is a good place to learn Python so I would love to share in here.  
-* Received warm and comfort letter from Udacity which makes me feel warm and enlighten so I collect it here :heart:.  
+* Received a warm and comfort letter from Udacity which makes me feel warm and enlighten so I collect it here :heart:.  
 ![][image9]  
