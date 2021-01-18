@@ -223,3 +223,12 @@ Polarbeargo
 * Participating [CS50’s New Year’s Seminars](https://cs50.harvard.edu/x/2021/seminars/#a-taste-of-python) where is a good place to learn Python so I would love to share in here.  
 * Received a warm and comfort letter from Udacity which makes me feel warm and enlighten so I collect it here :heart:.  
 ![][image9]  
+
+Day 26: 18/1/2021  
+Polarbeargo 
+
+* Reviewing Computer Vision Nanodegree Program Lesson 7 Feature Vectors section 11 ORB in video, section 13 HOG, reading Notebook: Implementing ORB and Notebook: Implementing HOG. Learned ORB can perform object detection in real time video. It works well in consistent features not affect by background images such as facial detection but not in Pedestrian detection.  
+* Reading and writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) graded discussion very carefully and replying classmates their posts.  
+* Watching [Max Tegmark: AI and Physics | Lex Fridman Podcast #155](https://youtu.be/RL4j4KPwNGM)  
+* Practicing Hackerrank String Formatting and LeetCode Max Number of K-Sum Pairs.  
+* It's very sweet found my Slack name on the [ AI Track - Honorable Mentions Wall](https://sites.google.com/udacity.com/bertelsmann-tech-scholarship/ai-track/ai-honorable-mentions-wall#h.nsfntz4tkx4x):heart::blush:.
