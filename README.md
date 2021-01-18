@@ -227,7 +227,7 @@ Polarbeargo
 Day 26: 18/1/2021  
 Polarbeargo 
 
-* Reviewing Computer Vision Nanodegree Program Lesson 7 Feature Vectors section 11 ORB in video, section 13 HOG, reading Notebook: Implementing ORB and Notebook: Implementing HOG. Learned ORB can perform object detection in real time video. It works well in consistent features not affect by background images such as facial detection but not in Pedestrian detection.  
+* Reviewing Computer Vision Nanodegree Program Lesson 7 Feature Vectors section 11 ORB in video, section 13 HOG, reading Notebook: Implementing ORB and Notebook: Implementing HOG. Learned ORB can perform object detection in real time video very fast. It works well in consistent features not affect by background images such as facial detection but not in Pedestrian detection.  
 * Reading and writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) graded discussion very carefully and replying classmates their posts.  
 * Watching [Max Tegmark: AI and Physics | Lex Fridman Podcast #155](https://youtu.be/RL4j4KPwNGM)  
 * Practicing Hackerrank String Formatting and LeetCode Max Number of K-Sum Pairs.  
