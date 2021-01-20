@@ -10,6 +10,7 @@
 [image7]: ./images/2ndGrade.png  
 [image8]: ./images/3rdGrade.png 
 [image9]: ./images/comfort.png
+[image10]: ./images/APA.png
 
 Day 1: 23/12/2020  
 Polarbeargo  
@@ -240,3 +241,12 @@ Polarbeargo
 * Today I read Exploring Cultural Differences in Classroom Expectations of Students from the United States and Taiwan from [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) finally figure out the different learning behavior between my early MOOC year and my friends from the USA, India and Pakistan. They are enjoying learning through asking question and collaborate in nature :star:!  
 * Reading [OpenCV AI Competition](https://opencv.org/opencv-ai-competition-2021/). Aftab, Hark and Sarah invited me participate write proposal together. It's a good place to continue making contribution after we graduate from Computer Vision Nanodegree Program and the Intel edge AI developers Nanodegree program perfect as I'm reviewing Computer Vision Nanodegree Program. But this time I still make Bertelsmann Scholarship and [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) as first priority and hope I won't burnout this time. I'm also learning take care of my wellness don't get too stress. Meditation and jogging are two of methods balance my state of mind.  
 * Participating Student story challenge is fun :blush:! I hope I can mange to submit by this Sunday.
+
+Day 28: 20/1/2021  
+Polarbeargo 
+
+* Reviewing Bertelsmann Scholarship - Introduction to AI in Business Nanodegree Program curriculum 5. Measuring Impact and Updating Models Lesson3 Optional project: Capstone Proposal. Suddenly realize that we can reference this project proposal format writing [OpenCV AI Competition Proposal](https://opencv.org/opencv-ai-competition-2021/) share and discuss this with Aftab, Hark, and Sarah.   
+* Reviewing Computer Vision Nanodegree Program lesson 8 CNN layers and Feature Visualization to section 3 Outline and Data.    
+* Reading [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill Citing Sources Writing Assignment
+ and feedback from Evaluating Sources Writing Assignment](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) feel pressure because I didn't aware of the APA Format :scream:. Thank you Dear Instructor April who writing feedback for me:blush:! Have to quickly pick up APA style format.      
+ ![][image10]
