@@ -246,7 +246,8 @@ Day 28: 20/1/2021
 Polarbeargo 
 
 * Reviewing Bertelsmann Scholarship - Introduction to AI in Business Nanodegree Program curriculum 5. Measuring Impact and Updating Models Lesson3 Optional project: Capstone Proposal. Suddenly realize that we can reference this project proposal format writing [OpenCV AI Competition Proposal](https://opencv.org/opencv-ai-competition-2021/) share and discuss this with Aftab, Hark, and Sarah.   
-* Reviewing Computer Vision Nanodegree Program lesson 8 CNN layers and Feature Visualization to section 3 Outline and Data.    
+* Reviewing Computer Vision Nanodegree Program lesson 8 CNN layers and Feature Visualization to section 3 Outline and Data. 
+* Reading [Riiid! Answer Correctness Prediction Track knowledge states of 1M+ students in the wild](https://www.kaggle.com/c/riiid-test-answer-prediction/discussion/209892) the materials are excellent place to learn Machine Learning through this competition.
 * Reading [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill Citing Sources Writing Assignment
  and feedback from Evaluating Sources Writing Assignment](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) feel pressure because I didn't aware of the APA Format :scream:. Thank you Dear Instructor April who writing feedback for me:blush:! Have to quickly pick up APA style format.      
  ![][image10]
