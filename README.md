@@ -256,3 +256,9 @@ Day 29: 21/1/2021
 Polarbeargo 
 
 * Searching research references and Writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Assignment How do cultural differences influence student expectations? and graded team Assignment Partner Presentation. This is the first time I have team assignment on Coursera. Wow! Welcome to 2021! Today I catch up with Bing Li, my classmate from English Proficiency for Graduate Studies Certificate Course. She is so good at English writing and we writing PPT together and setup ZOOM time to record our presentation. I feel this is a complicate topic which I never thought about it during my MOOC and Udacity years meet so many friends from different lands. I only thought they are so brave enough to approach professors asking question like friends in my early MOOC years. I never write topic like this they are so new to me :heart: though I feel unfamiliar and complicate :smile:.  
+
+Day 30: 22/1/2021  
+Polarbeargo 
+
+* Reading research references and Writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Assignment How do cultural differences influence student expectations?   
+* Practicing LeetCode One Edit Distance & Hackerrank Merge the Tools!  
