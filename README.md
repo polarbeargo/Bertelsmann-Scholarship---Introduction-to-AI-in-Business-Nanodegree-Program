@@ -11,6 +11,10 @@
 [image8]: ./images/3rdGrade.png 
 [image9]: ./images/comfort.png
 [image10]: ./images/APA.png
+[image11]: ./images/CS50TasteOfSQL.jpg
+[image12]: ./images/IMG_0213.PNG
+[image13]: ./images/IMG_0215.PNG
+[image14]: ./images/cute.png
 
 Day 1: 23/12/2020  
 Polarbeargo  
@@ -268,3 +272,15 @@ Polarbeargo
 
 * Spent all day reading research references and writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Assignment How do cultural differences influence student expectations?   
 * Spent all day searching, reading research references, and writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Assignment Independent Research Project - Select Sources. First time use [Microsoft Academic](https://academic.microsoft.com/home) which generates APA style citation format automatically. It is so convenient :smile:! Will Examine both assignments carefully tomorrow.  
+
+Day 32: 24/1/2021  
+Polarbeargo   
+
+* Participating [CS50’s New Year’s Seminars A Taste of SQL ZOOM session](https://cs50.harvard.edu/x/2021/seminars/#a-taste-of-sql), I'm happy that I can be one of a little mentor here. I can feel happiness when actually helped other MOOC student here. I'm collecting my happiness :heart:!  
+![][image11]  
+* Have our very first ZOOM meeting with Bing Li, my classmate from English Proficiency for Graduate Studies Certificate Course on Coursera record our presentation The East vs. The West in Academic Settings for team assignment.  
+* Spent rest of the day examine Assignment How do cultural differences influence student expectations? and Assignment Independent Research Project.  
+* Enjoying my time writing student story for Bertelsmann Technology Scholarship student story challenge select two photos to participate this fun event :blush: if not this challenge, I probably won't renew selfie :smile:!  
+![][image12]  
+![][image13]    
+![][image14]
