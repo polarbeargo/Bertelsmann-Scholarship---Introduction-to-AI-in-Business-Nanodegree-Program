@@ -276,9 +276,9 @@ Polarbeargo
 Day 32: 24/1/2021  
 Polarbeargo   
 
-* Participating [CS50’s New Year’s Seminars A Taste of SQL ZOOM session](https://cs50.harvard.edu/x/2021/seminars/#a-taste-of-sql), I'm happy that I can be one of a little mentor here. I can feel happiness when actually helped other MOOC student here. I'm collecting my happiness :heart:!  
+* Participating [CS50’s New Year’s Seminars A Taste of SQL ZOOM session](https://cs50.harvard.edu/x/2021/seminars/#a-taste-of-sql), I'm happy that I can be one of a little mentor here. I can feel happiness when actually helped other MOOC students here. I'm collecting my happiness :heart:!  
 ![][image11]  
-* Have our very first ZOOM meeting with Bing Li, my classmate from English Proficiency for Graduate Studies Certificate Course on Coursera record our presentation The East vs. The West in Academic Settings for team assignment.  
+* Have our very first ZOOM meeting with Bing Li, my classmate from English Proficiency for Graduate Studies Certificate Course on Coursera recorded our presentation The East vs. The West in Academic Settings for team assignment.  
 * Spent rest of the day examine Assignment How do cultural differences influence student expectations? and Assignment Independent Research Project.  
 * Enjoying my time writing student story for Bertelsmann Technology Scholarship student story challenge select two photos to participate this fun event :blush: if not this challenge, I probably won't renew selfie :smile:!  
 ![][image12]  
