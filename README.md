@@ -13,7 +13,7 @@
 [image10]: ./images/APA.png
 [image11]: ./images/CS50TasteOfSQL.jpg
 [image12]: ./images/IMG_0213.PNG
-[image13]: ./images/IMG_0215.PNG
+[image13]: ./images/IMG_0215.png
 [image14]: ./images/cute.png
 
 Day 1: 23/12/2020  
