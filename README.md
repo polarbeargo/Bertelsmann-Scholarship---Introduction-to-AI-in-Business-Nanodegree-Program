@@ -284,3 +284,9 @@ Polarbeargo
 ![][image12]  
 ![][image13]    
 ![][image14]
+
+Day 33: 25/1/2021  
+Polarbeargo  
+
+* Examine [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Assignment How do cultural differences influence student expectations? and Assignment Independent Research Project carefully a bit nervous. Start week 3.
+* Examine Bertelsmann Scholarship - Introduction to AI in Business Nanodegree Program make sure no quiz been left.
