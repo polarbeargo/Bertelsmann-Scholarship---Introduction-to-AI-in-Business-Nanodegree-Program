@@ -295,3 +295,11 @@ Day 34: 26/1/2021
 Polarbeargo  
 
 * Reading [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week 3 Natural Resources.
+
+Day 35: 27/1/2021  
+Polarbeargo  
+
+* Spent time take a close look at Computer Vision Nanodegree Program lesson 8 CNN layers and Feature Visualization to section 4 CNN Architecture, VGG-16 while reading this page I can feel crystal knowledge and great love from the writing style 😊.    
+* Aftab, Sarah, Hark, and I busy with our lives so we don't participate in the Intel OpenCV Challenge. I told Aftab it's okay then we move on. Listen to him share the beautiful mountain photos from India and talk about his hiking.   
+* After [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) course start, I received many inspiration and encouragement emails from Instructor April. Reading the assignment feedback from her is very helpful how can I describe it? As I received an email today, I can feel the connection between Instructor April and her students. I sincerely want to say thank you to Coursera and Arizona state university provide this course to allow us to enroll. Thank you, April for writing this feedback to me so I can be more aware of my writing skills. Continue watching week 3.  
+* Study Jam is about to start! I'm so exciting hopefully I can participate in the study Jam in time to immerse myself with Palak.Udacity and fellow scholars.  
