@@ -309,3 +309,10 @@ Polarbeargo
 
 * Reading [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) assignment How do cultural differences influence student expectations, team assignment PPT presentation and assignment Independent Research Project feedback very carefully and watching week 3 Nature Lecture “Nature, You’ve Got Our Attention”. Writing posts respond to other classmates are fun. While reading other classmates described their hometown, the scene comes vividly in my imagination.
 * Watching [Lex Fridman: Ask Me Anything - AMA January 2021 | Lex Fridman Podcast](https://www.youtube.com/watch?v=6ePR2TWYVkI), I feel comfort while watching this podcast:blush:.  
+
+Day 37: 29/1/2021  
+Polarbeargo  
+
+* Practiced LeetCode & HackerRank.  
+* Today received [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Instructor April record her feedback of the team assignment in ZOOM to Bing Li and me, it's so kind ❤️! I watched it carefully remember the mistake I made while recording the presentation. After I off work, I can recall Madam April's gentle smile in the end. It will become an important memory of mine so I starred the email to collect it as well. 
+* Writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) assignment Paraphrase. Try to learn an important English writing skill called Paraphrase. The project assignments are so intense.  
