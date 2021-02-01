@@ -330,4 +330,13 @@ Polarbeargo
 * Examine and writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Paraphrasing Writing Assignment, Peer-graded Assignment: Paraphrase Peer Review and Independent Project - Paraphrases and In-text Citations.  
 * Participating in [CS50 Seminar 2021- A Taste of Linux](https://cs50.harvard.edu/x/2021/seminars/#a-taste-of-linux) enjoying my time being a little mentor during ZOOM.  
 * Implementing kernel for [Research Prediction Competition Indoor Location & Navigation Identify the position of a smartphone in a shopping mall](https://www.kaggle.com/c/indoor-location-navigation) achieved Top 2 for a short temporary of time. Celebrate little progress for 2021 :smile:!  
-![][image15]
+![][image15]  
+
+Day 40: 1/2/2021  
+Polarbeargo  
+
+* Practicing HackerRank and LeetCode.
+* Reviewing Computer Vision Nanodegree Program lesson 8 CNN layers and Feature Visualization to section 6 Defining Layers in PyTorch carefully.  
+* Writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) peer review peer-graded assignment carefully.    
+* Reading and Implementing kernel for [Research Prediction Competition Indoor Location & Navigation Identify the position of a smartphone in a shopping mall](https://www.kaggle.com/c/indoor-location-navigation) and [Jane Street Market Prediction Test your model against future real market data](https://www.kaggle.com/c/jane-street-market-prediction).  
+
