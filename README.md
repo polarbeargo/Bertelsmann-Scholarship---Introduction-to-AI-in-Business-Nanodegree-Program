@@ -13,8 +13,11 @@
 [image10]: ./images/APA.png
 [image11]: ./images/CS50TasteOfSQL.jpg
 [image12]: ./images/IMG_0213.PNG
-[image13]: ./images/IMG_0215.PNG
+[image13]: ./images/IMG_0215.png
 [image14]: ./images/cute.png
+[image15]: ./images/IndoorLocation.png
+[image16]: ./images/feedback.png
+[image17]: ./images/eedback2.png
 
 Day 1: 23/12/2020  
 Polarbeargo  
@@ -276,11 +279,76 @@ Polarbeargo
 Day 32: 24/1/2021  
 Polarbeargo   
 
-* Participating [CS50’s New Year’s Seminars A Taste of SQL ZOOM session](https://cs50.harvard.edu/x/2021/seminars/#a-taste-of-sql), I'm happy that I can be one of a little mentor here. I can feel happiness when actually helped other MOOC student here. I'm collecting my happiness :heart:!  
+* Participating [CS50’s New Year’s Seminars A Taste of SQL ZOOM session](https://cs50.harvard.edu/x/2021/seminars/#a-taste-of-sql), I'm happy that I can be one of a little mentor here. I can feel happiness when actually helped other MOOC students here. I'm collecting my happiness :heart:!  
 ![][image11]  
-* Have our very first ZOOM meeting with Bing Li, my classmate from English Proficiency for Graduate Studies Certificate Course on Coursera record our presentation The East vs. The West in Academic Settings for team assignment.  
+* Have our very first ZOOM meeting with Bing Li, my classmate from English Proficiency for Graduate Studies Certificate Course on Coursera recorded our presentation The East vs. The West in Academic Settings for team assignment.  
 * Spent rest of the day examine Assignment How do cultural differences influence student expectations? and Assignment Independent Research Project.  
 * Enjoying my time writing student story for Bertelsmann Technology Scholarship student story challenge select two photos to participate this fun event :blush: if not this challenge, I probably won't renew selfie :smile:!  
 ![][image12]  
 ![][image13]    
 ![][image14]
+
+Day 33: 25/1/2021  
+Polarbeargo  
+
+* Examine [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Assignment How do cultural differences influence student expectations? and Assignment Independent Research Project carefully a bit nervous. Start week 3.
+* Examine Bertelsmann Scholarship - Introduction to AI in Business Nanodegree Program make sure no quiz been left.
+
+Day 34: 26/1/2021  
+Polarbeargo  
+
+* Reading [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week 3 Natural Resources.
+
+Day 35: 27/1/2021  
+Polarbeargo  
+
+* Spent time take a close look at Computer Vision Nanodegree Program lesson 8 CNN layers and Feature Visualization to section 4 CNN Architecture, VGG-16 while reading this page I can feel crystal knowledge and great love from the writing style 😊.    
+* Aftab, Sarah, Hark, and I busy with our lives so we don't participate in the Intel OpenCV Challenge. I told Aftab it's okay then we move on. Listen to him share the beautiful mountain photos from India and talk about his hiking.   
+* After [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) course start, I received many inspiration and encouragement emails from Instructor April. Reading the assignment feedback from her is very helpful how can I describe it? As I received an email today, I can feel the connection between Instructor April and her students. I sincerely want to say thank you to Coursera and Arizona state university provide this course to allow us to enroll. Thank you, April for writing this feedback to me so I can be more aware of my writing skills. Continue watching week 3.  
+* Study Jam is about to start! I'm so exciting hopefully I can participate in the study Jam in time to immerse myself with Palak.Udacity and fellow scholars.  
+
+Day 36: 28/1/2021  
+Polarbeargo  
+
+* Reading [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) assignment How do cultural differences influence student expectations, team assignment PPT presentation and assignment Independent Research Project feedback very carefully and watching week 3 Nature Lecture “Nature, You’ve Got Our Attention”. Writing posts respond to other classmates are fun. While reading other classmates described their hometown, the scene comes vividly in my imagination.
+* Watching [Lex Fridman: Ask Me Anything - AMA January 2021 | Lex Fridman Podcast](https://www.youtube.com/watch?v=6ePR2TWYVkI), I feel comfort while watching this podcast:blush:.  
+
+Day 37: 29/1/2021  
+Polarbeargo  
+
+* Practiced LeetCode & HackerRank.  
+* Today received [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Instructor April record her feedback of the team assignment in ZOOM to Bing Li and me, it's so kind ❤️! I watched it carefully remember the mistake I made while recording the presentation. After I off work, I can recall Madam April's gentle smile in the end. It will become an important memory of mine so I starred the email to collect it as well. 
+* Writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) assignment Paraphrase. Try to learn an important English writing skill called Paraphrase. The project assignments are so intense.  
+
+Day 38: 30/1/2021  
+Polarbeargo  
+
+* Writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Paraphrasing Writing Assignment, Peer-graded Assignment: Paraphrase Peer Review and Independent Project - Paraphrases and In-text Citations.
+
+
+Day 39: 31/1/2021  
+Polarbeargo  
+
+* Examine and writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Paraphrasing Writing Assignment, Peer-graded Assignment: Paraphrase Peer Review and Independent Project - Paraphrases and In-text Citations.  
+* Participating in [CS50 Seminar 2021- A Taste of Linux](https://cs50.harvard.edu/x/2021/seminars/#a-taste-of-linux) enjoying my time being a little mentor during ZOOM.  
+* Implementing kernel for [Research Prediction Competition Indoor Location & Navigation Identify the position of a smartphone in a shopping mall](https://www.kaggle.com/c/indoor-location-navigation) achieved Top 2 for a short temporary of time. Celebrate little progress for 2021 :smile:!  
+![][image15]  
+
+Day 40: 1/2/2021  
+Polarbeargo  
+
+* Practicing HackerRank and LeetCode.
+* Reviewing Computer Vision Nanodegree Program lesson 8 CNN layers and Feature Visualization to section 6 Defining Layers in PyTorch carefully.  
+* Writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) peer review peer-graded assignment carefully.    
+* Reading and Implementing kernel for [Research Prediction Competition Indoor Location & Navigation Identify the position of a smartphone in a shopping mall](https://www.kaggle.com/c/indoor-location-navigation) and [Jane Street Market Prediction Test your model against future real market data](https://www.kaggle.com/c/jane-street-market-prediction).  
+
+Day 41: 2/2/2021  
+Polarbeargo  
+
+* Practicing HackerRank and LeetCode.
+* Reviewing Computer Vision Nanodegree Program lesson 8 CNN layers and Feature Visualization Notebook: Visualizing a Convolutional Layer get familiar with how to use PyTorch.  
+* Writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) peer review peer-graded assignment carefully and reading week 3 assignments feedbacks carefully. I feel lively while reading Instructor April's feedback and she told me the view of her hometown with the agricultural area where grow corn and alfalfa. It must be a very beautiful place :blush:. 
+![][image16]  
+![][image17]  
+* Reading and Implementing kernel for [Research Prediction Competition Indoor Location & Navigation Identify the position of a smartphone in a shopping mall](https://www.kaggle.com/c/indoor-location-navigation) and [Jane Street Market Prediction Test your model against future real market data](https://www.kaggle.com/c/jane-street-market-prediction). Received an email from Dear Kaggle attached with the new course [US Vaccine Tracker
+Geospatial Analysis: Bonus Lesson](https://www.kaggle.com/peretzcohen/us-vaccine-tracker)
