@@ -16,6 +16,8 @@
 [image13]: ./images/IMG_0215.png
 [image14]: ./images/cute.png
 [image15]: ./images/IndoorLocation.png
+[image16]: ./images/feedback.png
+[image17]: ./images/eedback2.png
 
 Day 1: 23/12/2020  
 Polarbeargo  
@@ -340,3 +342,13 @@ Polarbeargo
 * Writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) peer review peer-graded assignment carefully.    
 * Reading and Implementing kernel for [Research Prediction Competition Indoor Location & Navigation Identify the position of a smartphone in a shopping mall](https://www.kaggle.com/c/indoor-location-navigation) and [Jane Street Market Prediction Test your model against future real market data](https://www.kaggle.com/c/jane-street-market-prediction).  
 
+Day 41: 2/2/2021  
+Polarbeargo  
+
+* Practicing HackerRank and LeetCode.
+* Reviewing Computer Vision Nanodegree Program lesson 8 CNN layers and Feature Visualization Notebook: Visualizing a Convolutional Layer get familiar with how to use PyTorch.  
+* Writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) peer review peer-graded assignment carefully and reading week 3 assignments feedbacks carefully. I feel lively while reading Instructor April's feedback and she told me the view of her hometown with the agricultural area where grow corn and alfalfa. It must be a very beautiful place :blush:. 
+![][image16]  
+![][image17]  
+* Reading and Implementing kernel for [Research Prediction Competition Indoor Location & Navigation Identify the position of a smartphone in a shopping mall](https://www.kaggle.com/c/indoor-location-navigation) and [Jane Street Market Prediction Test your model against future real market data](https://www.kaggle.com/c/jane-street-market-prediction). Received an email from Dear Kaggle attached with the new course [US Vaccine Tracker
+Geospatial Analysis: Bonus Lesson](https://www.kaggle.com/peretzcohen/us-vaccine-tracker)
