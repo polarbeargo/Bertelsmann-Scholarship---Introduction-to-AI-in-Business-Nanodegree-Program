@@ -18,7 +18,7 @@
 [image15]: ./images/IndoorLocation.png
 [image16]: ./images/feedback.png
 [image17]: ./images/feedback2.png
-[image18]: ./images/linux_9pm_20210130.png
+[image18]: ./images/linux.png
 
 Day 1: 23/12/2020  
 Polarbeargo  
@@ -367,4 +367,4 @@ Polarbeargo
 * Participating in the Mentor and Mentee program :heart:!  
 * Reading and Implementing kernel for [RANZCR CLiP - Catheter and Line Position Challenge - Classify the presence and correct placement of tubes on chest x-rays to save lives](https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification/overview) and [Human Protein Atlas - Single Cell Classification - Find individual human cell differences in microscope images](https://www.kaggle.com/c/hpa-single-cell-image-classification/overview).   
 * Watching [Natalya Bailey: Rocket Engines and Electric Spacecraft Propulsion | Lex Fridman Podcast #157](https://www.youtube.com/watch?v=CejJ2aVRUE8&t=2870s), the conversation is joyful and the Harry Potter part is extremely lovely.  
-* Planing to finish all episodes of [Marting's Morning Musings Live!](https://www.youtube.com/c/MartinMcGovern312/videos) because it's really good to listen and helps me learn :blush:.  
+* Planing to finish all episodes of [Marting's Morning Musings Live!](https://www.youtube.com/c/MartinMcGovern312/videos) because it's really good to listen and helps me learn especially E.238 :blush:.  
