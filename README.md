@@ -18,6 +18,7 @@
 [image15]: ./images/IndoorLocation.png
 [image16]: ./images/feedback.png
 [image17]: ./images/feedback2.png
+[image18]: ./images/linux_9pm_20210130.png
 
 Day 1: 23/12/2020  
 Polarbeargo  
@@ -331,6 +332,7 @@ Polarbeargo
 
 * Examine and writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Paraphrasing Writing Assignment, Peer-graded Assignment: Paraphrase Peer Review and Independent Project - Paraphrases and In-text Citations.  
 * Participating in [CS50 Seminar 2021- A Taste of Linux](https://cs50.harvard.edu/x/2021/seminars/#a-taste-of-linux) enjoying my time being a little mentor during ZOOM.  
+![][image18]  
 * Implementing kernel for [Research Prediction Competition Indoor Location & Navigation Identify the position of a smartphone in a shopping mall](https://www.kaggle.com/c/indoor-location-navigation) achieved Top 2 for a short temporary of time. Celebrate little progress for 2021 :smile:!  
 ![][image15]  
 
@@ -354,4 +356,15 @@ Feedback 1     |  Feedback 2
 ![][image16]                | ![][image17]  
 
 * Reading and Implementing kernel for [Research Prediction Competition Indoor Location & Navigation Identify the position of a smartphone in a shopping mall](https://www.kaggle.com/c/indoor-location-navigation) and [Jane Street Market Prediction Test your model against future real market data](https://www.kaggle.com/c/jane-street-market-prediction). Received an email from Dear Kaggle attached with the new course [US Vaccine Tracker
-Geospatial Analysis: Bonus Lesson](https://www.kaggle.com/peretzcohen/us-vaccine-tracker)
+Geospatial Analysis: Bonus Lesson](https://www.kaggle.com/peretzcohen/us-vaccine-tracker)  
+
+Day 42: 3/2/2021  
+Polarbeargo  
+
+* Practicing HackerRank and LeetCode.  
+* Reviewing Computer Vision Nanodegree Program lesson 8 CNN layers and Feature Visualization section 9 Pooling Layers and Notebook: Visualizing a Pooling Layer.   
+* Writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week4 quiz, watching lecture materials, and reading another half of week 3 assignment feedbacks carefully.  
+* Participating in the Mentor and Mentee program :heart:!  
+* Reading and Implementing kernel for [RANZCR CLiP - Catheter and Line Position Challenge - Classify the presence and correct placement of tubes on chest x-rays to save lives](https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification/overview) and [Human Protein Atlas - Single Cell Classification - Find individual human cell differences in microscope images](https://www.kaggle.com/c/hpa-single-cell-image-classification/overview).   
+* Watching [Natalya Bailey: Rocket Engines and Electric Spacecraft Propulsion | Lex Fridman Podcast #157](https://www.youtube.com/watch?v=CejJ2aVRUE8&t=2870s), the conversation is joyful and the Harry Potter part is extremely lovely.  
+* Planing to finish all episodes of [Marting's Morning Musings Live!](https://www.youtube.com/c/MartinMcGovern312/videos) because it's really good to listen and helps me learn :blush:.  
