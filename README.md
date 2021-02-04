@@ -367,4 +367,13 @@ Polarbeargo
 * Participating in the Mentor and Mentee program :heart:!  
 * Reading and Implementing kernel for [RANZCR CLiP - Catheter and Line Position Challenge - Classify the presence and correct placement of tubes on chest x-rays to save lives](https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification/overview) and [Human Protein Atlas - Single Cell Classification - Find individual human cell differences in microscope images](https://www.kaggle.com/c/hpa-single-cell-image-classification/overview).   
 * Watching [Natalya Bailey: Rocket Engines and Electric Spacecraft Propulsion | Lex Fridman Podcast #157](https://www.youtube.com/watch?v=CejJ2aVRUE8&t=2870s), the conversation is joyful and the Harry Potter part is extremely lovely.  
-* Planing to finish all episodes of [Marting's Morning Musings Live!](https://www.youtube.com/c/MartinMcGovern312/videos) because it's really good to listen and helps me learn especially E.238 :blush:.  
+* Planing to finish all episodes of [Martin's Morning Musings Live!](https://www.youtube.com/c/MartinMcGovern312/videos) because it's really good to listen and helps me learn especially E.238 :blush:.  
+
+Day 43: 4/2/2021  
+Polarbeargo  
+
+* Practicing HackerRank and LeetCode.  
+* Reviewing Computer Vision Nanodegree Program lesson 8 CNN layers and Feature Visualization section 13 Training in PyTorch.     
+* Writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week4 quiz, watching lecture materials, and reading assignments instruction carefully. Tonight at 11:00 PM we have a webinar :smile:!
+* Reading and Implementing kernel for [RANZCR CLiP - Catheter and Line Position Challenge - Classify the presence and correct placement of tubes on chest x-rays to save lives](https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification/overview) and [Human Protein Atlas - Single Cell Classification - Find individual human cell differences in microscope images](https://www.kaggle.com/c/hpa-single-cell-image-classification/overview).  
+* Planing to finish all episodes of [Martin's Morning Musings Live!](https://www.youtube.com/c/MartinMcGovern312/videos) because it's really good to listen and helps me learn especially E.238 and E.235 :blush:.  
