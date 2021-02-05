@@ -377,3 +377,11 @@ Polarbeargo
 * Writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week4 quiz, watching lecture materials, and reading assignments instruction carefully. Tonight at 11:00 PM we have a webinar :smile:!
 * Reading and Implementing kernel for [RANZCR CLiP - Catheter and Line Position Challenge - Classify the presence and correct placement of tubes on chest x-rays to save lives](https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification/overview) and [Human Protein Atlas - Single Cell Classification - Find individual human cell differences in microscope images](https://www.kaggle.com/c/hpa-single-cell-image-classification/overview).  
 * Planing to finish all episodes of [Martin's Morning Musings Live!](https://www.youtube.com/c/MartinMcGovern312/videos) because it's really good to listen and helps me learn especially E.238 and E.235 :blush:.  
+
+Day 44: 5/2/2021  
+Polarbeargo  
+
+* Practicing HackerRank and LeetCode.  
+* Try my best learning and writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) synthesized paragraph and reflection assignment and synthesizing writing assignment. Try to learn new research writing skills like combine paragraph skills to synthesizing our own ideas base on prior research with in-text citations with the APA style format.   
+* Watching [Martin's Morning Musings Live!](https://www.youtube.com/c/MartinMcGovern312/videos) because it's really good to listen and helps me learn especially E.238 and E.235.  
+
