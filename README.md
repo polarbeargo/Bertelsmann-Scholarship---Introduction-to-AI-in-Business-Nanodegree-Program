@@ -390,6 +390,7 @@ Day 45: 6/2/2021
 Polarbeargo  
 
 * Practicing HackerRank and LeetCode.  
+* Reviewing Computer Vision Nanodegree Program lesson 8 CNN layers and Feature Visualization section 16 Review: Dropout.  
 * Watching [Zev Weinstein: The Next Generation of Big Ideas and Brave Minds | Lex Fridman Podcast #158](https://youtu.be/QSPtSNqUCUw), it is excellent listen to deep conversation, exploring the different topic.  
 * Try hard writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) synthesized paragraph and reflection assignment and synthesizing writing assignment. Try to learn new research writing skills like combine paragraph skills to synthesizing our own ideas base on prior research with in-text citations with the APA style format.   
 * Watching [Martin's Morning Musings Live!](https://www.youtube.com/c/MartinMcGovern312/videos) find a good place to listen to philosophy and life. I love E.238 and E.235.  
