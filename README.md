@@ -19,6 +19,10 @@
 [image16]: ./images/feedback.png
 [image17]: ./images/feedback2.png
 [image18]: ./images/linux.png
+[image19]: ./images/jam1.png
+[image20]: ./images/jam2.png
+[image21]: ./images/jam3.png
+[image22]: ./images/jam4.png
 
 Day 1: 23/12/2020  
 Polarbeargo  
@@ -395,3 +399,17 @@ Polarbeargo
 * Try hard writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) synthesized paragraph and reflection assignment and synthesizing writing assignment. Try to learn new research writing skills like combine paragraph skills to synthesizing our own ideas base on prior research with in-text citations with the APA style format.   
 * Watching [Martin's Morning Musings Live!](https://www.youtube.com/c/MartinMcGovern312/videos) find a good place to listen to philosophy and life. I love E.238 and E.235.  
 * Reading and Implementing kernel for [Human Protein Atlas - Single Cell Classification - Find individual human cell differences in microscope images](https://www.kaggle.com/c/hpa-single-cell-image-classification/overview).  
+
+Day 46: 7/2/2021  
+Polarbeargo  
+
+* Enjoying my time and participating in Study Jam :blush:!  
+
+Event 1     |  Event 2
+:-------------------------:|:-------------------------:
+![][image22]                | ![][image19] 
+![][image20]                | ![][image21]   
+
+* Enjoying my time become a little mentor in [CS50’s New Year’s Seminars - A Taste of Game Development](https://cs50.harvard.edu/x/2021/seminars/#a-taste-of-game-development) :heart:.  
+* Practicing HackerRank and LeetCode.  
+* Try hard writing and examine [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) synthesized paragraph and reflection assignment and synthesizing writing assignment. Try to learn new research writing skills like combine paragraph skills to synthesizing our own ideas base on prior research with in-text citations with the APA style format.  
