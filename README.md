@@ -23,6 +23,7 @@
 [image20]: ./images/jam2.png
 [image21]: ./images/jam3.png
 [image22]: ./images/jam4.png
+[image23]: ./images/GD50.png
 
 Day 1: 23/12/2020  
 Polarbeargo  
@@ -411,5 +412,6 @@ Event 1     |  Event 2
 ![][image20]                | ![][image21]   
 
 * Enjoying my time become a little mentor in [CS50’s New Year’s Seminars - A Taste of Game Development](https://cs50.harvard.edu/x/2021/seminars/#a-taste-of-game-development) :heart:.  
+![][image23]   
 * Practicing HackerRank and LeetCode.  
 * Try hard writing and examine [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) synthesized paragraph and reflection assignment and synthesizing writing assignment. Try to learn new research writing skills like combine paragraph skills to synthesizing our own ideas base on prior research with in-text citations with the APA style format.  
