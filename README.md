@@ -23,7 +23,8 @@
 [image20]: ./images/jam2.png
 [image21]: ./images/jam3.png
 [image22]: ./images/jam4.png
-[image23]: ./images/GD50.png
+[image23]: ./images/GD50.png  
+[image24]: ./images/DearApril.png
 
 Day 1: 23/12/2020  
 Polarbeargo  
@@ -415,3 +416,13 @@ Event 1     |  Event 2
 ![][image23]   
 * Practicing HackerRank and LeetCode.  
 * Try hard writing and examine [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) synthesized paragraph and reflection assignment and synthesizing writing assignment. Try to learn new research writing skills like combine paragraph skills to synthesizing our own ideas base on prior research with in-text citations with the APA style format.  
+
+Day 47: 8/2/2021  
+Polarbeargo  
+
+* Reviewing Computer Vision Nanodegree Program lesson 8 CNN layers and Feature Visualization section 18 Network Structure. 
+* Reading [Jane Street Market Prediction Test your model against future real market data](https://www.kaggle.com/c/jane-street-market-prediction) and Implementing kernel for [Human Protein Atlas - Single Cell Classification - Find individual human cell differences in microscope images](https://www.kaggle.com/c/hpa-single-cell-image-classification/overview).  
+* Learn to use [optuna](https://optuna.readthedocs.io/en/stable/reference/index.html).  
+* Last week is [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) webinar, I'm super happy to see Instructor April and immerse myself in the memory from the beginning of the course, she encourages me to talk and willing to praise her students. I read feedbacks from her and try to memorize everything down. Today I saw the webinar record can't help but collect a photo of her gentle smile came as I collect Brenda.Udacity's photo, Palak.Udacity's photo from Microsoft Azure Machine Learning scholarship and CS50X's photo 😊! I'm glad I have a chance to enroll in this course to meet Instructor April! These memories will help me carry on.  
+
+![][image24]  
