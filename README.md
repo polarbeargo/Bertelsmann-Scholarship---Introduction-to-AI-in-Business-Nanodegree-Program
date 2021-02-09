@@ -427,3 +427,14 @@ Polarbeargo
 * Last week is [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) webinar, I'm super happy to see Instructor April and immerse myself in the memory from the beginning of the course, she encourages me to talk and willing to praise her students. I read feedbacks from her and try to memorize everything down. Today I saw the webinar record can't help but collect a photo of her gentle smile came as I collect Brenda.Udacity's photo, Palak.Udacity's photo from Microsoft Azure Machine Learning scholarship and CS50X's photo 😊! I'm glad I have a chance to enroll in this course to meet Instructor April! These memories will help me carry on.  
 
 ![][image24]  
+
+Day 48: 9/2/2021  
+Polarbeargo  
+
+* Practicing HackerRank and LeetCode.  
+* Spent more time reviewing Computer Vision Nanodegree Program lesson 8 CNN layers and Feature Visualization section 18 Network Structure.  
+* Reading [Jane Street Market Prediction Test your model against future real market data](https://www.kaggle.com/c/jane-street-market-prediction) and [Human Protein Atlas - Single Cell Classification - Find individual human cell differences in microscope images](https://www.kaggle.com/c/hpa-single-cell-image-classification/overview).   
+* Watching [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week5, reading week 4 assignments feedbacks feels there are a lot of things I need to modify.  
+* Spent a short time processing and visualize the [Numberai datasets](https://numer.ai/).  
+* Watching [Martin's Morning Musings Live!](https://www.youtube.com/c/MartinMcGovern312/videos) find a good place to listen to philosophy and life.  
+* Tomorrow is the Lunar New Year holidays planning jogging into the nearby mountain organizing my recent thoughts and feelings.  
