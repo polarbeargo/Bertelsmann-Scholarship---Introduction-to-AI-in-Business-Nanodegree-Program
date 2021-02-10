@@ -25,6 +25,7 @@
 [image22]: ./images/jam4.png
 [image23]: ./images/GD50.png  
 [image24]: ./images/DearApril.png
+[image25]: ./images/sakura.png
 
 Day 1: 23/12/2020  
 Polarbeargo  
@@ -438,3 +439,13 @@ Polarbeargo
 * Spent a short time processing and visualize the [Numberai datasets](https://numer.ai/).  
 * Watching [Martin's Morning Musings Live!](https://www.youtube.com/c/MartinMcGovern312/videos) find a good place to listen to philosophy and life.  
 * Tomorrow is the Lunar New Year holidays planning jogging into the nearby mountain organizing my recent thoughts and feelings.  
+
+Day 49: 10/2/2021  
+Polarbeargo  
+
+* Practicing HackerRank and LeetCode.  
+* Reviewing Computer Vision Nanodegree Program lesson 8 CNN layers and Feature Visualization section 22 Visualizing CNNs (Part 2)  
+* Spent time searching academic articles about sustainability and Writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Summarizing Writing Assignment.  
+* Watching [Martin's Morning Musings Live!](https://www.youtube.com/c/MartinMcGovern312/videos) learning philosophy and life.  
+* Jogging into the nearby mountain saw a lot of SAKURA :star:.  
+ ![][image25]  
