@@ -449,3 +449,13 @@ Polarbeargo
 * Watching [Martin's Morning Musings Live!](https://www.youtube.com/c/MartinMcGovern312/videos) learning philosophy and life.  
 * Jogging into the nearby mountain saw a lot of SAKURA :star:.  
  ![][image25]  
+
+Day 50: 11/2/2021  
+Polarbeargo  
+
+* Practicing HackerRank and LeetCode.   
+* Writing and examine [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Summarizing Writing Assignment. Studying week 5 and reading week 4 assignment feedback.    
+* Studying and Implementing kernel for [Jane Street Market Prediction Test your model against future real market data](https://www.kaggle.com/c/jane-street-market-prediction).  
+* Reading [Numberai documents](https://numer.ai/).  
+* Watching [Dragon Rider](https://youtu.be/mLhr-dbSa80)   
+* Enjoying listen to Lunar New Year's fireworks.    
