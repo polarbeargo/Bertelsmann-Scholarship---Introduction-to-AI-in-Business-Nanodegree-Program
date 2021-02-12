@@ -463,8 +463,8 @@ Polarbeargo
 Day 51: 12/2/2021  
 Polarbeargo  
 
-* Reviewing Computer Vision Nanodegree Program lesson 8 CNN layers and Feature Visualization section 23 Visualizing Activations
-* Examine Introduction to AI in Business Nanodegree Program curriculum 5. Measuring Impact and Updating Models 
+* Reviewing Computer Vision Nanodegree Program lesson 8 CNN layers and Feature Visualization section 23 Visualizing Activations.  
+* Examine Introduction to AI in Business Nanodegree Program curriculum 5. Measuring Impact and Updating Models.   
 * Practicing HackerRank and LeetCode.   
 * Writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week 5 graded discussions.  
 * Enjoying listen to Lunar New Year's fireworks.    
