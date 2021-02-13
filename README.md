@@ -468,3 +468,9 @@ Polarbeargo
 * Practicing HackerRank and LeetCode.   
 * Writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week 5 graded discussions.  
 * Enjoying listen to Lunar New Year's fireworks.    
+
+Day 52: 13/2/2021  
+Polarbeargo 
+
+* Writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week 5 graded discussions, group summary team assignment and Final Exam.  
+* Enjoying listen to Lunar New Year's fireworks.  
