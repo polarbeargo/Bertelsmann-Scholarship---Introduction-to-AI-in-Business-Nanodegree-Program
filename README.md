@@ -25,7 +25,8 @@
 [image22]: ./images/jam4.png
 [image23]: ./images/GD50.png  
 [image24]: ./images/DearApril.png
-[image25]: ./images/sakura.png
+[image25]: ./images/sakura.png  
+[image26]: ./images/movie.JPG  
 
 Day 1: 23/12/2020  
 Polarbeargo  
@@ -474,3 +475,13 @@ Polarbeargo
 
 * Writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week 5 graded discussions, group summary team assignment and Final Exam.  
 * Enjoying listen to Lunar New Year's fireworks.  
+
+Day 53: 14/2/2021  
+Polarbeargo 
+
+* Examine Introduction to AI in Business Nanodegree Program curriculum 4 Build a Model.  
+* Practicing HackerRank and LeetCode.  
+* Writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week 5 Summarize - Writing Practice 2 and Final Reflection. Reading Summarizing Writing Assignment feedbacks.    
+* Keep myself warm and cozy :blush:.   
+* Enjoying the fun time in [CS50x Movie Night*](https://cs50.harvard.edu/x/2021/movie/). This is my first time watching movie with CS50x classmates around the world :heart:.    
+ ![][image26]  
