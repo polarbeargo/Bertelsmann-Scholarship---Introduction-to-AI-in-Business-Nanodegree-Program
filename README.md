@@ -486,3 +486,13 @@ Polarbeargo
 * Keep myself warm and cozy :blush:.   
 * Enjoying the fun time in [CS50x Movie Night*](https://cs50.harvard.edu/x/2021/movie/). This is my first time watching movie with CS50x classmates around the world :heart:.    
  ![][image26]  
+
+Day 54: 15/2/2021  
+Polarbeargo 
+
+* Examine Introduction to AI in Business Nanodegree Program curriculum 4 Build a Model.   
+* Participating #tech_help channel enjoying conversation time.   
+* Reviewing Computer Vision Nanodegree Program lesson 8 CNN layers and Feature Visualization section 25 Last Feature Vector and t-SNE.  
+* Reading [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week 5 assignment feedbacks.    
+* Practicing HackerRank and LeetCode.   
+* Keep myself warm and cozy :blush:.  
