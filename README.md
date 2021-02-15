@@ -475,6 +475,7 @@ Polarbeargo
 
 * Writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week 5 graded discussions, group summary team assignment and Final Exam.  
 * Enjoying listen to Lunar New Year's fireworks.  
+* [Brendan Eich: JavaScript, Firefox, Mozilla, and Brave | Lex Fridman Podcast #160](https://youtu.be/krB0enBeSiE)  
 
 Day 53: 14/2/2021  
 Polarbeargo 
