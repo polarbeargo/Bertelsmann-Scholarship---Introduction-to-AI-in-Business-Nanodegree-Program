@@ -495,4 +495,10 @@ Polarbeargo
 * Reviewing Computer Vision Nanodegree Program lesson 8 CNN layers and Feature Visualization section 25 Last Feature Vector and t-SNE.  
 * Reading [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week 5 assignment feedbacks.    
 * Practicing HackerRank and LeetCode.   
-* Keep myself warm and cozy :blush:.  
+* Keep myself warm and cozy :blush:.   
+
+Day 55: 16/2/2021  
+Polarbeargo    
+* Complete [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) and reading week 5 assignments feedbacks. Thank you for Instructor April who spent time wrote a lot of valuable feedbacks to me and say congratulation to me and my classmates :heart:. Thank you to Billy from Coursera who helped me open support ticket and said congratulation to my completion of course 1! Hope I can find my way enroll in Course 2. I’m very grateful be able to receive congratulations from Instructor April from AZU, Billy and Jared from Coursera. It’s really great to have people celebrate with me :blush:.  
+* Practicing HackerRank and LeetCode.  
+* Watching [Jason Calacanis: Startups, Angel Investing, Capitalism, and Friendship | Lex Fridman Podcast #161](https://youtu.be/d2bYwYxqJCM). It's a beautiful episode, I glad I'm able to listen to this podcast many important things within.
