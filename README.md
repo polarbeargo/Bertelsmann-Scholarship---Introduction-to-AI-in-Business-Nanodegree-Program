@@ -508,3 +508,9 @@ Polarbeargo
 
 * Start [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) safely.    
 * Practicing HackerRank and LeetCode. 
+
+Day 57: 18/2/2021  
+Polarbeargo  
+
+* Studying [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week 1 and writing assignments.    
+* Practicing HackerRank and LeetCode. 
