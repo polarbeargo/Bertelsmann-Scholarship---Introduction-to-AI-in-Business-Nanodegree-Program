@@ -514,3 +514,9 @@ Polarbeargo
 
 * Studying [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week 1 and writing assignments.    
 * Practicing HackerRank and LeetCode. 
+
+Day 58: 19/2/2021  
+Polarbeargo  
+
+* Studying [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week 1 and writing graded discussion about Argumentation, Language and Identity, Discover Language and Identity and Independent Project - Thesis and Outline.  
+* I received email from Udacity said that I have an opportunity to write my story to Udacity featuring inspiring stories. At that night, I immediately filled the featuring inspiring stories form because it’s a chance to let Udacity know how much I love them and very grateful for those Nanodegrees and scholarships experiences I have. A memories with loves help me to be a better version of myself :heart:.
