@@ -475,6 +475,7 @@ Polarbeargo
 
 * Writing [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week 5 graded discussions, group summary team assignment and Final Exam.  
 * Enjoying listen to Lunar New Year's fireworks.  
+* [Brendan Eich: JavaScript, Firefox, Mozilla, and Brave | Lex Fridman Podcast #160](https://youtu.be/krB0enBeSiE)  
 
 Day 53: 14/2/2021  
 Polarbeargo 
@@ -485,3 +486,48 @@ Polarbeargo
 * Keep myself warm and cozy :blush:.   
 * Enjoying the fun time in [CS50x Movie Night*](https://cs50.harvard.edu/x/2021/movie/). This is my first time watching movie with CS50x classmates around the world :heart:.    
  ![][image26]  
+
+Day 54: 15/2/2021  
+Polarbeargo 
+
+* Examine Introduction to AI in Business Nanodegree Program curriculum 4 Build a Model.   
+* Participating #tech_help channel enjoying conversation time.   
+* Reviewing Computer Vision Nanodegree Program lesson 8 CNN layers and Feature Visualization section 25 Last Feature Vector and t-SNE.  
+* Reading [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week 5 assignment feedbacks.    
+* Practicing HackerRank and LeetCode.   
+* Keep myself warm and cozy :blush:.   
+
+Day 55: 16/2/2021  
+Polarbeargo    
+* Complete [English Proficiency for Graduate Studies Certificate Course 1 Learning Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) and reading week 5 assignments feedbacks. Thank you for Instructor April who spent time wrote a lot of valuable feedbacks to me and say congratulation to me and my classmates :heart:. Thank you to Billy from Coursera who helped me open support ticket and said congratulation to my completion of course 1! Hope I can find my way enroll in Course 2. I’m very grateful be able to receive congratulations from Instructor April from AZU, Billy and Jared from Coursera. It’s really great to have people celebrate with me :blush:.  
+* Practicing HackerRank and LeetCode.  
+* Watching [Jason Calacanis: Startups, Angel Investing, Capitalism, and Friendship | Lex Fridman Podcast #161](https://youtu.be/d2bYwYxqJCM). It's a beautiful episode, I glad I'm able to listen to this podcast many important things within.
+
+Day 56: 17/2/2021  
+Polarbeargo  
+
+* Start [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) safely.    
+* Practicing HackerRank and LeetCode. 
+
+Day 57: 18/2/2021  
+Polarbeargo  
+
+* Studying [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week 1 and writing assignments.    
+* Practicing HackerRank and LeetCode. 
+
+Day 58: 19/2/2021  
+Polarbeargo  
+
+* Studying [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week 1 and writing graded discussion about Argumentation, Language and Identity, Discover Language and Identity and Independent Project - Thesis and Outline.  
+* I received email from Udacity said that I have an opportunity to write my story to Udacity featuring inspiring stories. At that night, I immediately filled the featuring inspiring stories form because it’s a chance to let Udacity know how much I love them and very grateful for those Nanodegrees and scholarships experiences I have. A memories with loves help me to be a better version of myself :heart:.  
+* Watching [Jim Keller: The Future of Computing, AI, Life, and Consciousness | Lex Fridman Podcast #162](https://youtu.be/G4hL5Om4IJ4)  
+
+Day 59: 20/2/2021  
+Polarbeargo   
+* Searching references for writing [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Peer-graded Assignment:  5 paragraph of Argumentative Essay - Should everyone learn and speak one global language?   
+
+Day 60: 21/2/2021  
+Polarbeargo   
+* Writing [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Peer-graded Assignment:  5 paragraph of Argumentative Essay - Should everyone learn and speak one global language? and graded discussion.    
+* Participating tech_help channel.  
+* Today is the 60th day will continue to the end of scholarship, Thank you, Udacity for selecting me into this scholarship before Christmas and be a companion of mine during Lunar New Year :heart:. 
