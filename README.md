@@ -524,4 +524,10 @@ Polarbeargo
 
 Day 59: 20/2/2021  
 Polarbeargo   
-* Searching references for writing [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Peer-graded Assignment:  5 paragraph of Argumentative Essay - Should everyone learn and speak one global language? 
+* Searching references for writing [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Peer-graded Assignment:  5 paragraph of Argumentative Essay - Should everyone learn and speak one global language?   
+
+Day 60: 21/2/2021  
+Polarbeargo   
+* Writing [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Peer-graded Assignment:  5 paragraph of Argumentative Essay - Should everyone learn and speak one global language? and graded discussion.    
+* Participating tech_help channel.  
+* Today is the 60th day will continue to the end of scholarship, Thank you, Udacity for selecting me into this scholarship before Christmas and be a companion of mine during Lunar New Year :heart:. 
