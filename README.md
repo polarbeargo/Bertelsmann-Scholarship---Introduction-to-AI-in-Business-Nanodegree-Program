@@ -26,7 +26,9 @@
 [image23]: ./images/GD50.png  
 [image24]: ./images/DearApril.png
 [image25]: ./images/sakura.png  
-[image26]: ./images/movie.JPG  
+[image26]: ./images/movie.JPG 
+[image27]: ./images/AI-bertelsmannbage.png
+[image28]: ./images/KaggleMentor.png
 
 Day 1: 23/12/2020  
 Polarbeargo  
@@ -530,4 +532,22 @@ Day 60: 21/2/2021
 Polarbeargo   
 * Writing [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Peer-graded Assignment:  5 paragraph of Argumentative Essay - Should everyone learn and speak one global language? and graded discussion.    
 * Participating tech_help channel.  
-* Today is the 60th day will continue to the end of scholarship, Thank you, Udacity for selecting me into this scholarship before Christmas and be a companion of mine during Lunar New Year :heart:. 
+* Today is the 60th day will continue to the end of scholarship, Thank you, Udacity for selecting me into this scholarship before Christmas and be a companion of mine during Lunar New Year :heart:.   
+![][image27]  
+
+Day 61: 22/2/2021  
+Polarbeargo   
+* Wrote and submitted [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Peer-graded Assignment:  5 paragraph of Argumentative Essay - Should everyone learn and speak one global language? and graded discussion. Continue writing Independent Project - Thesis and Outline and review my peers.  
+* Replying threads in #tech_help and #general_discussion channel. 
+
+Day 62: 23/2/2021  
+Polarbeargo  
+* Writing [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Independent Project - Thesis and Outline. Made first submission will continue examine independent project tomorrow.
+
+Day 63: 24/2/2021  
+Polarbeargo  
+* Examine [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing). Watching Week 2 and wrote graded discussion. It's very deep and a process need self reflection with the lecture material.  
+* Practicing HackerRank and LeetCode.  
+* Today I know I’ve been accepted as a mentor for Kaggle’s BIPOC Grant Program :blush:! It's exciting and I scream. Hope I can manage to it with English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill not sure I can handle it but this is a good change for me,too. The writing projects is intense but very helpful while writing for a significant problem, tackling through it and self reflection.   
+* Reading [Kaggle New Feature Engineering course](https://www.kaggle.com/learn/feature-engineering).  
+![][image28] 
