@@ -546,6 +546,7 @@ Polarbeargo
 
 Day 63: 24/2/2021  
 Polarbeargo  
+* Sign up as a Python mentor for unmatched mentees :star:. 
 * Examine [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing). Watching Week 2 and wrote graded discussion. It's very deep and a process need self reflection with the lecture material.  
 * Practicing HackerRank and LeetCode.  
 * Today I know I’ve been accepted as a mentor for Kaggle’s BIPOC Grant Program :blush:! It's exciting and I scream. Hope I can manage to it with English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill not sure I can handle it but this is a good change for me,too. The writing projects is intense but very helpful while writing for a significant problem, tackling through it and self reflection.   
