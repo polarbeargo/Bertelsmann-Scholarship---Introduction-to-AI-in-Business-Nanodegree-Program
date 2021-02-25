@@ -552,3 +552,9 @@ Polarbeargo
 * Today I know I’ve been accepted as a mentor for Kaggle’s BIPOC Grant Program :blush:! It's exciting and I scream. Hope I can manage to it with English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill not sure I can handle it but this is a good change for me,too. The writing projects is intense but very helpful while writing for a significant problem, tackling through it and self reflection.   
 * Reading [Kaggle New Feature Engineering course](https://www.kaggle.com/learn/feature-engineering).  
 ![][image28] 
+
+Day 64: 25/2/2021  
+Polarbeargo  
+* Reply threads in # tech_help channel.
+* Writing [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) graded discussion, watching and reading week 2. Prepare early sleep tonight to participate English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill webinar at 11:00 PM.  
+* Practicing HackerRank and LeetCode. 
