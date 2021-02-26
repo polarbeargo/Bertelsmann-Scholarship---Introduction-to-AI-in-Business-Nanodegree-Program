@@ -561,7 +561,7 @@ Polarbeargo
 
 Day 65: 26/2/2021  
 Polarbeargo  
-* Catch up with my mentee :blush: listen and reply mentee's question.  
+* Catch up with my mentees :blush: listen and reply mentee's question.  
 * Writing [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week 2 assignments.  
 * Practicing HackerRank and LeetCode.  
 * Friday movie night [100% Wolf](https://youtu.be/osbSKKS77SU).
