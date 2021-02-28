@@ -571,3 +571,8 @@ Polarbeargo
 * Catch up with my mentees :blush: listen and reply mentee's question enjoy our conversation time.  
 * Writing [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week 2 graded discussion.   
 * Take a full rest today.
+
+Day 67: 28/2/2021  
+Polarbeargo  
+* Reading and reply mentee's question enjoy our conversation time :star:.  
+* Writing [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week 2 assignments. 
