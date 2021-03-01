@@ -576,3 +576,8 @@ Day 67: 28/2/2021
 Polarbeargo  
 * Reading and reply mentee's questions enjoy our conversation time :star:.  
 * Writing [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week 2 assignments. 
+
+Day 68: 1/3/2021  
+Polarbeargo  
+* Reading mentee's reply feel light hearted.  
+* Writing [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) final essay. 
