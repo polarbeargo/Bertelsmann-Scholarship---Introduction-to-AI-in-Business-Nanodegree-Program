@@ -586,6 +586,7 @@ Day 69: 2/3/2021
 Polarbeargo  
  
 * Still writing [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) final essay, watching week 3 and reading feedbacks of graded discussion from Dear Instructor April and classmates. 
+* Today early morning 1 vs 1 video conference with Dear Instructor April have our great conversation time. I will remember forever :heart:.
 * Participating [Kaggle’s BIPOC Grant Program](https://www.kaggle.com/bipoc-grant-application) Slack Channel.
 * Practice LeetCode
 * Today and yesterday listened to [Josh Barnett: Philosophy of Violence, Power, and the Martial Arts | Lex Fridman #165](https://youtu.be/YJWPowbCK_I) and [Andrew Huberman: Sleep, Dreams, Creativity, Fasting, and Neuroplasticity | Lex Fridman Podcast #164](https://youtu.be/ClxRHJPz8aQ)
