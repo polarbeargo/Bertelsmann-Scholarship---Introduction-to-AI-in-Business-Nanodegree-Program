@@ -590,3 +590,12 @@ Polarbeargo
 * Participating [Kaggle’s BIPOC Grant Program](https://www.kaggle.com/bipoc-grant-application) Slack Channel.
 * Practice LeetCode
 * Today and yesterday listened to [Josh Barnett: Philosophy of Violence, Power, and the Martial Arts | Lex Fridman #165](https://youtu.be/YJWPowbCK_I) and [Andrew Huberman: Sleep, Dreams, Creativity, Fasting, and Neuroplasticity | Lex Fridman Podcast #164](https://youtu.be/ClxRHJPz8aQ)
+
+Day 70: 3/3/2021  
+Polarbeargo  
+ 
+* Still writing [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) final essay and start review classmates their works. Spent time reading week 3 Independent Project Final Essay revision, Independent Project Final Presentation and Final Independent Research Project and Reflection.  
+* Practice LeetCode.  
+* Reply thread in # tech_help channel.  
+* Should start revisit Introduction to AI in Business Nanodegree Program course content :heart:.  
+* Participating [Kaggle’s BIPOC Grant Program](https://www.kaggle.com/bipoc-grant-application) Slack Channel, meeting another Udacian Gigi :blush:.
