@@ -599,3 +599,13 @@ Polarbeargo
 * Reply thread in # tech_help channel.  
 * Should start revisit Introduction to AI in Business Nanodegree Program course content :heart:.  
 * Participating [Kaggle’s BIPOC Grant Program](https://www.kaggle.com/bipoc-grant-application) Slack Channel, meeting another Udacian Gigi :blush:.
+
+Day 71: 4/3/2021  
+Polarbeargo  
+ 
+* Revisiting curriculum 5. Measuring Impact and Updating Models lesson 1 Measuring Business Impact & Mitigating Bias.  
+* Received email from Dear Udacity that it's time to revisit C++ Nanodegree program chipped course content pice by pice before May. Last time stay with my C++ Nanodegree program :heart:. Checked I organised and collected C++ Nanodegree program course contents as well as one of my treasures.  
+* Submitted [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) final essay and review classmates their works. Start collecting and organising reviews and emails Dear Instructor April wrote to me :heart:.  
+* Practice LeetCode.   
+* Participating [Kaggle’s BIPOC Grant Program](https://www.kaggle.com/bipoc-grant-application) Kickoff Meeting. Saw Julia Elliott and my mentee in person :heart: and talk to one of the Computer Vision Nanodegree Program Instructor Alexis Cook in Slack and received a emoji from her! WOW, It's like a dream!
+* Today one of my Bertelsmann scholarship mentee Ambuj share his new breakthrough achievement with me shout out for Ambuj and celebrate his breakthrough!
