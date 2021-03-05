@@ -609,3 +609,8 @@ Polarbeargo
 * Practice LeetCode.   
 * Participating [Kaggle’s BIPOC Grant Program](https://www.kaggle.com/bipoc-grant-application) Kickoff Meeting. Saw Julia Elliott and my mentee in person :heart: and talk to one of the Computer Vision Nanodegree Program Instructor Alexis Cook in Slack and received a emoji from her! WOW, It's like a dream!
 * Today one of my Bertelsmann scholarship mentee Ambuj share his new breakthrough achievement with me shout out for Ambuj and celebrate his breakthrough!
+
+Day 72: 5/3/2021  
+Polarbeargo  
+* Reading [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) final essay and assignments feedbacks start revision final essay, Final Independent Research Project and Reflection and writing final essay presentation slides.  
+* Friday movie night [Disney's Raya and the Last Dragon | Official Trailer](https://youtu.be/1VIZ89FEjYI) :movie_camera::star:
