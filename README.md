@@ -615,7 +615,7 @@ Polarbeargo
 * Reading [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) final essay and assignments feedbacks start revision final essay, Final Independent Research Project and Reflection and writing final essay presentation slides.  
 * Friday movie night [Disney's Raya and the Last Dragon | Official Trailer](https://youtu.be/1VIZ89FEjYI) :movie_camera::star:
 
-Day 73: 5/3/2021  
+Day 73: 6/3/2021  
 Polarbeargo  
 * Revisiting curriculum 5. Measuring Impact and Updating Models lesson 2 case study: Video Annotation and curriculum 4 lesson 1 training and evaluating models.  
 * Revisiting C++ Nanodegree Program curriculum 1. Welcome lesson 1 welcome to the C++ Nanodegree Program to lesson 2 Introduction to the C ++ section Compilation. Watching Instructor David Silver said welcome lesson is very cheering :star:!  
