@@ -621,3 +621,10 @@ Polarbeargo
 * Revisiting C++ Nanodegree Program curriculum 1. Welcome lesson 1 welcome to the C++ Nanodegree Program to lesson 2 Introduction to the C ++ section Compilation. Watching Instructor David Silver said welcome lesson is very cheering :star:!  
 * Reading [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) final essay and assignments feedbacks continue revision final essay, writing Final Independent Research Project and Reflection and final essay presentation slides.  
 * Practice LeetCode & HackerRank.  
+
+Day 74: 7/3/2021  
+Polarbeargo  
+
+* Revision [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) final essay and preparing final essay presentation slides. 
+* I'm happy to see my Bertelsmann Scholarship mentee happy :blush: Thank you, @Harini Pavithra for sharing your joy with me!
+* Practice LeetCode. 
