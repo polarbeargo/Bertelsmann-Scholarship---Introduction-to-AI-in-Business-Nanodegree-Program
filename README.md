@@ -628,3 +628,12 @@ Polarbeargo
 * Revision [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) final essay and preparing final essay presentation slides. 
 * I'm happy to see my Bertelsmann Scholarship mentee happy :blush: Thank you, @Harini Pavithra for sharing your joy with me!
 * Practice LeetCode. 
+
+Day 75: 8/3/2021  
+Polarbeargo  
+
+* Revisiting curriculum 4. Build a Model lesson 1 training and evaluating models to section 16 Transfer learning. I'm impressed by the imbalanced datasets section.  
+* Revisiting C++ Nanodegree Program curriculum 2. Foundations lesson 3 A* search :blush:.  
+* Submitted [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) final essay presentation.   
+* Discussed and Booked Google hangout meeting time to touch base with my Kaggle BIPOC Grant Program mentee :blush:!  
+* Practice LeetCode.
