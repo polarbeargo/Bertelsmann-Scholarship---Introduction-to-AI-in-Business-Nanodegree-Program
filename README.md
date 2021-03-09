@@ -637,3 +637,11 @@ Polarbeargo
 * Submitted [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) final essay presentation.   
 * Discussed and Booked Google hangout meeting time to touch base with my Kaggle BIPOC Grant Program mentee :blush:!  
 * Practice LeetCode.
+
+Day 76: 9/3/2021  
+Polarbeargo  
+
+* Revisiting curriculum 3. Creating a Dataset lesson 1 Data fit and annotation section 10 Job Design.  
+* Revisiting C++ Nanodegree Program curriculum 2. Foundations lesson 3 A* search section 11 CODE: Adding Nodes to the Open Vector.  
+* Received Congratulation on course completion and blessing email from Dear Instructor April and Arizona State University team 😊. Thank you Dear Instructor April and Arizona State University, I will collect this email well and miss these months in [English Proficiency for Graduate Studies Certificate](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) ❤️! 
+* Practice LeetCode.
