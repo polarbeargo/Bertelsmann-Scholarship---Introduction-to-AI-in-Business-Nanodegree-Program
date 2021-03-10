@@ -645,3 +645,13 @@ Polarbeargo
 * Revisiting C++ Nanodegree Program curriculum 2. Foundations lesson 3 A* search section 11 CODE: Adding Nodes to the Open Vector.  
 * Received Congratulation on course completion and blessing email from Dear Instructor April and Arizona State University team 😊. Thank you Dear Instructor April and Arizona State University, I will collect this email well and miss these months in [English Proficiency for Graduate Studies Certificate](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) ❤️! 
 * Practice LeetCode.
+
+Day 77: 10/3/2021  
+Polarbeargo  
+
+* Revisiting curriculum 2. Introduction to AI in Business lesson 2 Introduction to AI and Machine Learning section 5 Why deep learning? 
+* Revisiting C++ Nanodegree Program curriculum 2. Foundations lesson 4 Writing multifile programs.
+* Revisiting Computer Vision Nanodegree Program lesson 8 CNN layers and Feature Visualization section 18 Network Structure  
+* Reading [English Proficiency for Graduate Studies Certificate](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) final essay feedbacks.
+* Spent time think of the topics and materials for [Kaggle’s BIPOC Grant Program](https://www.kaggle.com/bipoc-grant-application): Events/Talks.   
+* Practice on LeetCode. 
