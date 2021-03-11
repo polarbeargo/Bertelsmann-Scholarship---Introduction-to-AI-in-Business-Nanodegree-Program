@@ -29,6 +29,8 @@
 [image26]: ./images/movie.JPG 
 [image27]: ./images/AI-bertelsmannbage.png
 [image28]: ./images/KaggleMentor.png
+[image29]: ./images/ama1.png
+[image30]: ./images/ama2.png
 
 Day 1: 23/12/2020  
 Polarbeargo  
@@ -655,3 +657,18 @@ Polarbeargo
 * Reading [English Proficiency for Graduate Studies Certificate](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) final essay feedbacks.
 * Spent time think of the topics and materials for [Kaggle’s BIPOC Grant Program](https://www.kaggle.com/bipoc-grant-application): Events/Talks.   
 * Practice on LeetCode. 
+
+Day 78: 11/3/2021  
+Polarbeargo  
+
+* Revisiting curriculum 2. Introduction to AI in Business lesson 3 Using AI and Machine Learning in Bussiness section 4 The Business Case.  
+* Voted Student story challenge.
+* Participated AMA session on ZOOM and saw @Palak.Udacity, @Grace.Udacity and @Isabella.Udacity in person!! I took screenshots for us ❤️!  
+
+AMA 1     |  AMA 2
+:-------------------------:|:-------------------------:
+![][image29]                | ![][image30]  
+  
+* Revisiting C++ Nanodegree Program curriculum 2. Foundations lesson 4 Writing multifile programs section 10 References vs Pointers.  
+* Revisiting Computer Vision Nanodegree Program lesson 8 CNN layers and Feature Visualization section 25 Last Feature Vector and t-SNE and section 26 Occlusion, Saliency, and Guided Backpropagation.  
+* Reading [English Proficiency for Graduate Studies Certificate](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Final Independent Research Project and Reflection and final essay presentation slides feedbacks. I feel super happy when reading Dear Instructor April said I'm the most Improved Learner in the Course!" Bravo! and we will be in touch ❤️! Hope one day I can visiting Arizona State University invite Instructor April for a meal :smile:, collecting webinar record for memory of English Proficiency for Graduate Studies Certificate Course.
