@@ -29,6 +29,8 @@
 [image26]: ./images/movie.JPG 
 [image27]: ./images/AI-bertelsmannbage.png
 [image28]: ./images/KaggleMentor.png
+[image29]: ./images/ama1.png
+[image30]: ./images/ama2.png
 
 Day 1: 23/12/2020  
 Polarbeargo  
@@ -546,8 +548,127 @@ Polarbeargo
 
 Day 63: 24/2/2021  
 Polarbeargo  
-* Examine [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing). Watching Week 2 and wrote graded discussion. It's very deep and a process need self reflection with the lecture material.  
+* Sign up as a Python mentor for unmatched mentees :star:. 
+* Examine [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Independent Project - Thesis and Outline. Watching Week 2 and wrote graded discussion. It's very deep and a process need self reflection with the lecture materials.  
 * Practicing HackerRank and LeetCode.  
 * Today I know I’ve been accepted as a mentor for Kaggle’s BIPOC Grant Program :blush:! It's exciting and I scream. Hope I can manage to it with English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill not sure I can handle it but this is a good change for me,too. The writing projects is intense but very helpful while writing for a significant problem, tackling through it and self reflection.   
 * Reading [Kaggle New Feature Engineering course](https://www.kaggle.com/learn/feature-engineering).  
 ![][image28] 
+
+Day 64: 25/2/2021  
+Polarbeargo  
+* Reply threads in # tech_help channel.
+* Writing [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) graded discussion, watching and reading week 2. Prepare early sleep tonight to participate English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill webinar at 11:00 PM.  
+* Practicing HackerRank and LeetCode. 
+
+Day 65: 26/2/2021  
+Polarbeargo  
+* Catch up with my mentees :blush: listen and reply mentee's questions.  
+* Writing [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week 2 assignments.  
+* Practicing HackerRank and LeetCode.  
+* Friday movie night [100% Wolf](https://youtu.be/osbSKKS77SU).
+
+Day 66: 27/2/2021  
+Polarbeargo  
+* Catch up with my mentees :blush: listen and reply mentee's questions enjoy our conversation time.  
+* Writing [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week 2 graded discussion.   
+* Take a full rest today.
+
+Day 67: 28/2/2021  
+Polarbeargo  
+* Reading and reply mentee's questions enjoy our conversation time :star:.  
+* Writing [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) week 2 assignments. 
+
+Day 68: 1/3/2021  
+Polarbeargo  
+* Reading mentee's reply feel light hearted.  
+* Writing [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) final essay. 
+
+Day 69: 2/3/2021  
+Polarbeargo  
+ 
+* Still writing [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) final essay, watching week 3 and reading feedbacks of graded discussion from Dear Instructor April and classmates. 
+* Today early morning 1 vs 1 video conference with Dear Instructor April have our great conversation time. I will remember forever :heart:.
+* Participating [Kaggle’s BIPOC Grant Program](https://www.kaggle.com/bipoc-grant-application) Slack Channel.
+* Practice LeetCode
+* Today and yesterday listened to [Josh Barnett: Philosophy of Violence, Power, and the Martial Arts | Lex Fridman #165](https://youtu.be/YJWPowbCK_I) and [Andrew Huberman: Sleep, Dreams, Creativity, Fasting, and Neuroplasticity | Lex Fridman Podcast #164](https://youtu.be/ClxRHJPz8aQ)
+
+Day 70: 3/3/2021  
+Polarbeargo  
+ 
+* Still writing [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) final essay and start review classmates their works. Spent time reading week 3 Independent Project Final Essay revision, Independent Project Final Presentation and Final Independent Research Project and Reflection.  
+* Practice LeetCode.  
+* Reply thread in # tech_help channel.  
+* Should start revisit Introduction to AI in Business Nanodegree Program course content :heart:.  
+* Participating [Kaggle’s BIPOC Grant Program](https://www.kaggle.com/bipoc-grant-application) Slack Channel, meeting another Udacian Gigi :blush:.
+
+Day 71: 4/3/2021  
+Polarbeargo  
+ 
+* Revisiting curriculum 5. Measuring Impact and Updating Models lesson 1 Measuring Business Impact & Mitigating Bias.  
+* Received email from Dear Udacity that it's time to revisit C++ Nanodegree program chipped course content pice by pice before May. Last time stay with my C++ Nanodegree program :heart:. Checked I organised and collected C++ Nanodegree program course contents as well as one of my treasures.  
+* Submitted [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) final essay and review classmates their works. Start collecting and organising reviews and emails Dear Instructor April wrote to me :heart:.  
+* Practice LeetCode.   
+* Participating [Kaggle’s BIPOC Grant Program](https://www.kaggle.com/bipoc-grant-application) Kickoff Meeting. Saw Julia Elliott and my mentee in person :heart: and talk to one of the Computer Vision Nanodegree Program Instructor Alexis Cook in Slack and received a emoji from her! WOW, It's like a dream!
+* Today one of my Bertelsmann scholarship mentee Ambuj share his new breakthrough achievement with me shout out for Ambuj and celebrate his breakthrough!
+
+Day 72: 5/3/2021  
+Polarbeargo  
+* Reading [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) final essay and assignments feedbacks start revision final essay, Final Independent Research Project and Reflection and writing final essay presentation slides.  
+* Friday movie night [Disney's Raya and the Last Dragon | Official Trailer](https://youtu.be/1VIZ89FEjYI) :movie_camera::star:
+
+Day 73: 6/3/2021  
+Polarbeargo  
+* Revisiting curriculum 5. Measuring Impact and Updating Models lesson 2 case study: Video Annotation and curriculum 4 lesson 1 training and evaluating models.  
+* Revisiting C++ Nanodegree Program curriculum 1. Welcome lesson 1 welcome to the C++ Nanodegree Program to lesson 2 Introduction to the C ++ section Compilation. Watching Instructor David Silver said welcome lesson is very cheering :star:!  
+* Reading [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) final essay and assignments feedbacks continue revision final essay, writing Final Independent Research Project and Reflection and final essay presentation slides.  
+* Practice LeetCode & HackerRank.  
+
+Day 74: 7/3/2021  
+Polarbeargo  
+
+* Revision [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) final essay and preparing final essay presentation slides. 
+* I'm happy to see my Bertelsmann Scholarship mentee happy :blush: Thank you, @Harini Pavithra for sharing your joy with me!
+* Practice LeetCode. 
+
+Day 75: 8/3/2021  
+Polarbeargo  
+
+* Revisiting curriculum 4. Build a Model lesson 1 training and evaluating models to section 16 Transfer learning. I'm impressed by the imbalanced datasets section.  
+* Revisiting C++ Nanodegree Program curriculum 2. Foundations lesson 3 A* search :blush:.  
+* Submitted [English Proficiency for Graduate Studies Certificate Course 2 Applying Research Skill](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) final essay presentation.   
+* Discussed and Booked Google hangout meeting time to touch base with my Kaggle BIPOC Grant Program mentee :blush:!  
+* Practice LeetCode.
+
+Day 76: 9/3/2021  
+Polarbeargo  
+
+* Revisiting curriculum 3. Creating a Dataset lesson 1 Data fit and annotation section 10 Job Design.  
+* Revisiting C++ Nanodegree Program curriculum 2. Foundations lesson 3 A* search section 11 CODE: Adding Nodes to the Open Vector.  
+* Received Congratulation on course completion and blessing email from Dear Instructor April and Arizona State University team 😊. Thank you Dear Instructor April and Arizona State University, I will collect this email well and miss these months in [English Proficiency for Graduate Studies Certificate](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) ❤️! 
+* Practice LeetCode.
+
+Day 77: 10/3/2021  
+Polarbeargo  
+
+* Revisiting curriculum 2. Introduction to AI in Business lesson 2 Introduction to AI and Machine Learning section 5 Why deep learning? 
+* Revisiting C++ Nanodegree Program curriculum 2. Foundations lesson 4 Writing multifile programs.
+* Revisiting Computer Vision Nanodegree Program lesson 8 CNN layers and Feature Visualization section 18 Network Structure  
+* Reading [English Proficiency for Graduate Studies Certificate](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) final essay feedbacks.
+* Spent time think of the topics and materials for [Kaggle’s BIPOC Grant Program](https://www.kaggle.com/bipoc-grant-application): Events/Talks.   
+* Practice on LeetCode. 
+
+Day 78: 11/3/2021  
+Polarbeargo  
+
+* Revisiting curriculum 2. Introduction to AI in Business lesson 3 Using AI and Machine Learning in Bussiness section 4 The Business Case.  
+* Voted Student story challenge.
+* Participated AMA session on ZOOM and saw @Palak.Udacity, @Grace.Udacity and @Isabella.Udacity in person!! I took screenshots for us ❤️!  
+
+AMA 1     |  AMA 2
+:-------------------------:|:-------------------------:
+![][image29]                | ![][image30]  
+  
+* Revisiting C++ Nanodegree Program curriculum 2. Foundations lesson 4 Writing multifile programs section 10 References vs Pointers.  
+* Revisiting Computer Vision Nanodegree Program lesson 8 CNN layers and Feature Visualization section 25 Last Feature Vector and t-SNE and section 26 Occlusion, Saliency, and Guided Backpropagation.  
+* Reading [English Proficiency for Graduate Studies Certificate](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Final Independent Research Project and Reflection and final essay presentation slides feedbacks. I feel super happy when reading Dear Instructor April said I'm the most Improved Learner in the Course!" Bravo! and we will be in touch ❤️! Hope one day I can visiting Arizona State University invite Instructor April for a meal :smile:, collecting webinar record for memory of English Proficiency for Graduate Studies Certificate Course.
