@@ -30,7 +30,13 @@
 [image27]: ./images/AI-bertelsmannbage.png
 [image28]: ./images/KaggleMentor.png
 [image29]: ./images/ama1.png
-[image30]: ./images/ama2.png
+[image30]: ./images/ama2.png  
+[image31]: ./images/BertelsmannP3.png
+[image32]: ./images/bertelsmannEndParty.png
+[image33]: ./images/GraceGuitar.png
+[image34]: ./images/hardToSayGoodbye.png
+[image35]: ./images/hardToSayGoodbye2.png
+[image36]: ./images/bertwlsmann1.png
 
 Day 1: 23/12/2020  
 Polarbeargo  
@@ -681,3 +687,15 @@ Polarbeargo
 * Waiting for tonight 2:00 AM End of Phase 1 Program Party 😊!    
 * Practice on LeetCode. 
 * Review [CS50’s Introduction to Game Development - Breakout](https://cs50.harvard.edu/games/2018/weeks/2/).
+
+Day 80: 13/3/2021  
+Polarbeargo  
+
+* Have a great time in the Phase 1 end of program party 😊! Will continue update to the last day March 16th 🌟
+
+
+Party time     |  Party time
+:-------------------------:|:-------------------------:
+![][image31]                | ![][image32]  
+![][image33]                | ![][image34]  
+![][image35]                | ![][image36]  
