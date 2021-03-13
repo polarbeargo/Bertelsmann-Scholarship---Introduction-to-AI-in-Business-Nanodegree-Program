@@ -30,7 +30,13 @@
 [image27]: ./images/AI-bertelsmannbage.png
 [image28]: ./images/KaggleMentor.png
 [image29]: ./images/ama1.png
-[image30]: ./images/ama2.png
+[image30]: ./images/ama2.png  
+[image31]: ./images/BertelsmannP3.png
+[image32]: ./images/bertelsmannEndParty.png
+[image33]: ./images/GraceGuitar.png
+[image34]: ./images/hardToSayGoodbye.png
+[image35]: ./images/hardToSayGoodbye2.png
+[image36]: ./images/bertwlsmann1.png
 
 Day 1: 23/12/2020  
 Polarbeargo  
@@ -672,3 +678,24 @@ AMA 1     |  AMA 2
 * Revisiting C++ Nanodegree Program curriculum 2. Foundations lesson 4 Writing multifile programs section 10 References vs Pointers.  
 * Revisiting Computer Vision Nanodegree Program lesson 8 CNN layers and Feature Visualization section 25 Last Feature Vector and t-SNE and section 26 Occlusion, Saliency, and Guided Backpropagation.  
 * Reading [English Proficiency for Graduate Studies Certificate](https://www.coursera.org/mastertrack/graduate-english-proficiency-asu-cert?utm_campaign=ZWVr4BfkEeuBo8m8_7foAg&utm_medium=email&utm_source=marketing) Final Independent Research Project and Reflection and final essay presentation slides feedbacks. I feel super happy when reading Dear Instructor April said I'm the most Improved Learner in the Course!" Bravo! and we will be in touch ❤️! Hope one day I can visiting Arizona State University invite Instructor April for a meal :smile:, collecting webinar record for memory of English Proficiency for Graduate Studies Certificate Course.
+
+Day 79: 12/3/2021  
+Polarbeargo  
+* Finished check all Bertelsmann Scholarship - Introduction to AI in Business Nanodegree Program content and quiz 😄!  
+* Revisiting C++ Nanodegree Program curriculum 3. Object-Oriented Programming. It's good to see Sir Bjarne Stroustrup and Instructor Stephen Welch 🌟! Reading Build an OpenStreetMap Route Planner Project and review.  
+* Revisiting Computer Vision Nanodegree Program Project: Facial Keypoint Detection.  
+* Waiting for tonight 2:00 AM End of Phase 1 Program Party 😊!    
+* Practice on LeetCode. 
+* Review [CS50’s Introduction to Game Development - Breakout](https://cs50.harvard.edu/games/2018/weeks/2/).
+
+Day 80: 13/3/2021  
+Polarbeargo  
+
+* Have a great time in the Phase 1 end of program party 😊! Will continue update to the last day March 16th 🌟
+
+
+Party time     |  Party time
+:-------------------------:|:-------------------------:
+![][image31]                | ![][image32]  
+![][image33]                | ![][image34]  
+![][image35]                | ![][image36]  
