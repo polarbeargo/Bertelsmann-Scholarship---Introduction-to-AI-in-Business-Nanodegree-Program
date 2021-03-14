@@ -699,3 +699,8 @@ Party time     |  Party time
 ![][image31]                | ![][image32]  
 ![][image33]                | ![][image34]  
 ![][image35]                | ![][image36]  
+
+Day 81: 14/3/2021  
+Polarbeargo  
+
+* Take a good rest enjoying sunshine and have a good meal outside 😊!
