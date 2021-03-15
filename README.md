@@ -704,3 +704,13 @@ Day 81: 14/3/2021
 Polarbeargo  
 
 * Take a good rest enjoying sunshine and have a good meal outside 😊!
+
+Day 82: 15/3/2021  
+Polarbeargo  
+* Revisiting C++ Nanodegree Program curriculum 3. Object-Oriented Programming lesson 2 Intro to OOP section 11 Scope Resolution.
+* Revisiting Computer Vision Nanodegree Program curriculum 3. Advanced Computer Vision & Deep Learning lesson 1 Advanced CNN Architecture section 9 Faster R-CNN.
+* Enjoying conversation time with mentee.
+* Practice LeetCode. 
+* Watching [Silvio Micali: Cryptocurrency, Blockchain, Algorand, Bitcoin & Ethereum | Lex Fridman Podcast #168](https://youtu.be/zNdhgOk4-fE), I love Sir Silvio Micali said express emotion not suppress ❤️! After finish revisiting C++ Nanodegree Program and Computer Vision Nanodegree Program, I would love to study Blockchain 😊!  
+* Thank you Dear Udacity for selected me into Bertelsmann Scholarship Phase 1 🌟! I feel joyful being a mentor along this Scholarship 😊! 
+Thank you Dear Sir David J. Malan, CS50 TA, CS50 staffs and Kaggle provide me these chances to be a mentor assist people from different land which makes me feel joyful along the way ❤️
